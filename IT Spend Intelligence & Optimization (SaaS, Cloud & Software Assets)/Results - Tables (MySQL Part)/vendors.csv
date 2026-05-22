@@ -1,0 +1,51 @@
+vendor_id,vendor_name,category,region,status,credit_score,relationship_since,payment_terms_days,account_manager,preferred
+1,MicroSphere Solutions,Telecom,EMEA,Inactive,92,2018-02-13,14,Daniel Wójcik,0
+2,NovaTech Systems,Security,AMER,Active,72,2016-09-28,30,Daniel Woźniak,0
+3,CloudVault Inc,Software,EMEA,Inactive,61,2019-01-10,45,Damian Zieliński,0
+4,DataPeak Ltd,Software,APAC,Inactive,89,2016-05-26,60,Dorota Krawczyk,0
+5,NetEdge Corp,Cloud,APAC,Under Review,78,2021-06-22,30,Julia Wiśniewski,0
+6,InfraCore SA,Software,APAC,Active,73,2015-11-23,30,Eryk Jankowski,0
+7,SecureAxis,Cloud,AMER,Active,65,2019-02-25,45,Katarzyna Pawłowski,0
+8,ByteStream GmbH,Cloud,APAC,Active,93,2022-02-13,30,Paweł Nowacki,1
+9,OptiCloud,Hardware,EMEA,Inactive,79,2018-01-10,30,Ola Woźniak,0
+10,SyncLogic,Software,EMEA,Active,75,2019-07-02,45,Cezary Kamiński,0
+11,PrimeNet Services,Services,APAC,Active,68,2022-05-08,60,Zofia Nowakowski,0
+12,AlphaLink,Telecom,EMEA,Active,63,2017-10-07,45,Alicja Piotrowska,0
+13,CodeForge,Telecom,APAC,Inactive,78,2017-06-17,30,Krzysztof Kaczmarek,0
+14,TechNova,Software,EMEA,Active,64,2022-01-14,30,Ola Wojciechowski,0
+15,InfoSec Pro,Services,EMEA,Inactive,79,2021-09-06,60,Monika Zieliński,0
+16,StoragePlus,Services,EMEA,Active,98,2021-01-08,45,Maria Nowakowski,1
+17,VirtualBridge,Cloud,EMEA,Active,82,2016-10-09,60,Adam Nowacki,1
+18,DataSentry,Security,AMER,Under Review,66,2020-09-10,14,Robert Szymański,0
+19,AppVault,Security,APAC,Under Review,67,2016-09-18,45,Daniel Wójcik,0
+20,NetShield,Services,APAC,Active,93,2018-08-20,60,Anna Dąbrowski,1
+21,SkyCompute,Cloud,AMER,Active,58,2017-09-13,14,Dorota Nowacki,0
+22,CoreSystems,Telecom,EMEA,Under Review,63,2016-06-09,60,Natalia Wójcik,0
+23,HorizonIT,Cloud,APAC,Under Review,82,2017-05-17,30,Julia Szymański,0
+24,DigitalEdge,Telecom,APAC,Active,83,2020-10-20,60,Ewa Kowalczyk,1
+25,ProCloud,Hardware,EMEA,Active,56,2021-08-06,30,Karolina Kowalczyk,0
+26,DataWave,Software,EMEA,Active,69,2015-10-04,14,Sara Wiśniewski,0
+27,TechMatrix,Services,EMEA,Active,97,2020-06-11,30,Paweł Lewandowski,1
+28,SystemsPeak,Security,APAC,Under Review,85,2017-09-22,60,Piotr Kamiński,0
+29,CloudSprint,Software,EMEA,Inactive,77,2019-10-01,60,Joanna Nowacki,0
+30,NetCore,Software,APAC,Active,58,2019-07-08,45,Eryk Kowalczyk,0
+31,SecureVault,Hardware,EMEA,Under Review,83,2016-07-28,60,Iga Zieliński,0
+32,DataLogic,Telecom,EMEA,Active,83,2021-03-04,14,Beata Nowakowski,1
+33,InfraSphere,Services,EMEA,Active,70,2016-11-12,60,Agnieszka Kaczmarek,0
+34,ByteEdge,Hardware,AMER,Active,65,2019-04-02,14,Wojciech Zieliński,0
+35,CloudMesh,Telecom,AMER,Inactive,90,2022-06-04,60,Gosia Kamiński,0
+36,TechStream,Cloud,EMEA,Active,92,2021-01-29,14,Alicja Woźniak,1
+37,DataBridge,Software,EMEA,Under Review,85,2020-08-21,30,Beata Mazur,0
+38,NetVault,Software,EMEA,Active,93,2015-10-06,30,Zofia Dąbrowski,1
+39,AppCore,Services,EMEA,Under Review,93,2015-06-12,14,Piotr Pawłowski,0
+40,SyncCloud,Services,APAC,Under Review,75,2017-12-04,30,Jakub Michalski,0
+41,StorageNet,Cloud,EMEA,Active,80,2016-06-20,45,Joanna Woźniak,0
+42,InfraLogic,Software,EMEA,Inactive,94,2021-04-25,14,Cezary Krawczyk,0
+43,ByteCloud,Hardware,APAC,Active,63,2018-11-30,14,Marta Kozłowski,0
+44,DataSync,Cloud,EMEA,Inactive,89,2022-11-21,45,Magdalena Nowakowski,0
+45,TechVault,Services,EMEA,Under Review,74,2022-06-10,14,Filip Zieliński,0
+46,NetSphere,Software,EMEA,Under Review,64,2018-01-20,45,Damian Kamiński,0
+47,CloudEdge,Security,AMER,Active,98,2022-02-10,45,Krzysztof Kaczmarek,1
+48,DataCore,Cloud,EMEA,Active,95,2019-10-01,45,Bartosz Kowalski,1
+49,AppStream,Cloud,EMEA,Active,65,2019-12-15,60,Natalia Kowalski,0
+50,InfoVault,Software,EMEA,Active,89,2015-05-28,45,Karolina Krawczyk,1

@@ -1,0 +1,121 @@
+contract_id,vendor_id,cost_center_id,contract_name,contract_type,start_date,end_date,total_value,annual_value,auto_renewal,notice_period_days,status,signed_by
+1,10,7,SyncLogic – Hardware Maintenance,Hardware Maintenance,2025-03-26,2027-03-16,94339.62,47169.81,0,NULL,Expired,Tomasz Kamiński
+2,44,4,DataSync – Consulting,Consulting,2025-07-29,2028-07-14,196128.48,65376.16,1,90,Expired,Alicja Lewandowski
+3,16,14,StoragePlus – Hardware Maintenance,Hardware Maintenance,2025-12-28,2028-12-13,11072.66,3690.89,1,60,Expired,Jakub Nowacki
+4,16,5,StoragePlus – Hardware Maintenance,Hardware Maintenance,2028-12-07,2029-12-01,98722.72,98722.72,0,NULL,Expired,Łukasz Kowalczyk
+5,13,14,CodeForge – Cloud Commitment,Cloud Commitment,2026-12-17,2028-12-07,206031.41,103015.71,0,NULL,Expired,Leszek Kowalski
+6,43,4,ByteCloud – Cloud Commitment,Cloud Commitment,2026-11-03,2028-10-24,216766.47,108383.24,1,60,Expired,Kasia Mazur
+7,26,11,DataWave – Managed Services,Managed Services,2026-11-09,2027-11-04,33258.73,33258.73,1,30,Expired,Karolina Zieliński
+8,3,2,CloudVault Inc – Managed Services,Managed Services,2027-06-08,2030-05-23,183493.54,61164.51,1,60,Active,Damian Mazur
+9,8,7,ByteStream GmbH – Managed Services,Managed Services,2026-01-24,2028-01-14,15874.7,7937.35,1,30,Expired,Monika Krawczyk
+10,44,12,DataSync – Consulting,Consulting,2028-10-05,2030-09-24,94234.26,47117.13,0,NULL,Active,Jakub Woźniak
+11,40,6,SyncCloud – Consulting,Consulting,2025-09-12,2027-09-02,129245.01,64622.5,1,60,Expired,Zofia Michalski
+12,19,9,AppVault – Hardware Maintenance,Hardware Maintenance,2026-01-27,2029-01-12,167907.71,55969.24,1,90,Expired,Alicja Wójcik
+13,40,10,SyncCloud – Support & Services,Support & Services,2027-04-11,2028-04-06,79449.36,79449.36,0,NULL,Expired,Aleksandra Piotrowska
+14,39,11,AppCore – Support & Services,Support & Services,2027-08-10,2032-07-15,113329.15,22665.83,0,NULL,Active,Krzysztof Kaczmarek
+15,48,3,DataCore – Consulting,Consulting,2025-06-22,2027-06-12,131285.74,65642.87,1,60,Expired,Dorota Adamczyk
+16,16,11,StoragePlus – Support & Services,Support & Services,2026-04-05,2028-03-26,41101.72,20550.86,0,NULL,Expired,Marta Kaczmarek
+17,40,14,SyncCloud – SaaS Subscription,SaaS Subscription,2027-07-21,2030-07-05,222103.54,74034.51,1,30,Active,Julia Michalski
+18,25,8,ProCloud – Cloud Commitment,Cloud Commitment,2026-05-14,2027-05-09,165734.21,165734.21,0,NULL,Expired,Daniel Adamczyk
+19,7,13,SecureAxis – Cloud Commitment,Cloud Commitment,2026-03-24,2027-03-19,202006.91,202006.91,1,60,Expired,Beata Krawczyk
+20,16,15,StoragePlus – SaaS Subscription,SaaS Subscription,2027-07-23,2028-07-18,201347.07,201347.07,1,90,Expired,Damian Woźniak
+21,49,15,AppStream – Cloud Commitment,Cloud Commitment,2028-06-08,2031-05-23,208489.45,69496.48,1,60,Active,Hubert Nowacki
+22,31,8,SecureVault – Support & Services,Support & Services,2026-05-21,2028-05-11,192624.35,96312.18,1,60,Expired,Robert Kowalczyk
+23,18,8,DataSentry – SaaS Subscription,SaaS Subscription,2026-08-08,2028-07-29,71570.2,35785.1,1,90,Expired,Dorota Lewandowski
+24,10,4,SyncLogic – Cloud Commitment,Cloud Commitment,2028-11-22,2029-11-16,178072.69,178072.69,0,NULL,Expired,Piotr Wojciechowski
+25,22,9,CoreSystems – Cloud Commitment,Cloud Commitment,2027-05-01,2028-04-26,55674.43,55674.43,1,60,Expired,Maria Piotrowska
+26,45,1,TechVault – Managed Services,Managed Services,2027-02-18,2032-01-23,6444.54,1288.91,1,60,Active,Daniel Jankowski
+27,27,9,TechMatrix – Consulting,Consulting,2028-01-23,2030-01-12,124616.22,62308.11,1,60,Active,Agnieszka Kowalski
+28,25,6,ProCloud – Consulting,Consulting,2028-10-22,2031-10-06,182424.44,60808.15,1,30,Active,Magdalena Krawczyk
+29,2,15,NovaTech Systems – Cloud Commitment,Cloud Commitment,2028-04-27,2029-04-21,25567.13,25567.13,1,30,Expired,Joanna Wójcik
+30,4,5,DataPeak Ltd – Cloud Commitment,Cloud Commitment,2026-11-01,2028-10-22,116401.33,58200.67,1,60,Expired,Nina Adamczyk
+31,27,5,TechMatrix – SaaS Subscription,SaaS Subscription,2027-08-21,2028-08-16,188510.94,188510.94,0,NULL,Expired,Tomasz Kowalczyk
+32,42,2,InfraLogic – Consulting,Consulting,2025-03-23,2026-03-18,237654.87,237654.87,0,NULL,Expired,Anna Grabowski
+33,10,4,SyncLogic – Hardware Maintenance,Hardware Maintenance,2027-08-27,2028-08-22,143172.55,143172.55,0,NULL,Expired,Joanna Michalski
+34,17,13,VirtualBridge – Support & Services,Support & Services,2025-12-09,2026-12-04,195559.01,195559.01,0,NULL,Expired,Paulina Dąbrowski
+35,38,1,NetVault – Support & Services,Support & Services,2028-03-25,2031-03-09,102180.34,34060.11,0,NULL,Active,Cezary Piotrowska
+36,45,14,TechVault – Consulting,Consulting,2026-05-12,2027-05-07,175812.29,175812.29,1,90,Expired,Damian Dąbrowski
+37,37,13,DataBridge – SaaS Subscription,SaaS Subscription,2026-12-12,2029-11-26,167072.73,55690.91,0,NULL,Expired,Krzysztof Nowakowski
+38,22,1,CoreSystems – Cloud Commitment,Cloud Commitment,2027-09-30,2028-09-25,111213.23,111213.23,1,90,Expired,Joanna Michalski
+39,10,7,SyncLogic – Hardware Maintenance,Hardware Maintenance,2027-12-04,2029-11-23,155898.53,77949.26,1,60,Expired,Joanna Wojciechowski
+40,47,10,CloudEdge – Support & Services,Support & Services,2026-10-22,2028-10-12,208529.1,104264.55,0,NULL,Expired,Nina Kwiatkowski
+41,16,13,StoragePlus – Cloud Commitment,Cloud Commitment,2028-03-13,2031-02-25,87417.17,29139.06,1,60,Active,Iga Kaczmarek
+42,14,6,TechNova – Support & Services,Support & Services,2026-11-28,2028-11-18,220678.4,110339.2,1,90,Expired,Adam Mazur
+43,13,2,CodeForge – Hardware Maintenance,Hardware Maintenance,2027-04-12,2032-03-17,141018.17,28203.63,0,NULL,Active,Sebastian Kaczmarek
+44,42,12,InfraLogic – Cloud Commitment,Cloud Commitment,2027-07-06,2028-07-01,27798.07,27798.07,0,NULL,Expired,Zofia Michalski
+45,16,5,StoragePlus – Consulting,Consulting,2028-04-06,2031-03-21,120948.82,40316.27,1,60,Active,Aleksandra Nowacki
+46,36,6,TechStream – Support & Services,Support & Services,2028-12-10,2033-11-13,71374.52,14274.9,1,30,Active,Ewa Nowacki
+47,13,6,CodeForge – SaaS Subscription,SaaS Subscription,2028-01-02,2028-12-28,51927.54,51927.54,1,60,Expired,Kamil Piotrowska
+48,49,9,AppStream – Managed Services,Managed Services,2026-08-02,2027-07-28,208993.95,208993.95,1,30,Expired,Urszula Wójcik
+49,20,1,NetShield – Consulting,Consulting,2027-12-29,2028-12-24,72206.28,72206.28,0,NULL,Expired,Natalia Szymański
+50,45,3,TechVault – Consulting,Consulting,2027-10-02,2028-09-27,218816.34,218816.34,1,60,Expired,Łukasz Kaczmarek
+51,29,6,CloudSprint – Hardware Maintenance,Hardware Maintenance,2025-04-15,2027-04-05,235560.58,117780.29,1,30,Expired,Cezary Jankowski
+52,32,2,DataLogic – Managed Services,Managed Services,2028-07-13,2029-07-07,42173.12,42173.12,1,60,Expired,Dorota Kowalczyk
+53,8,9,ByteStream GmbH – Cloud Commitment,Cloud Commitment,2028-05-26,2030-05-15,195044.92,97522.46,1,60,Active,Marek Szymański
+54,38,7,NetVault – Support & Services,Support & Services,2028-03-10,2029-03-04,154359.57,154359.57,0,NULL,Expired,Daniel Kamiński
+55,41,4,StorageNet – Support & Services,Support & Services,2028-09-14,2029-09-08,43478.99,43478.99,0,NULL,Expired,Natalia Wiśniewski
+56,11,1,PrimeNet Services – Cloud Commitment,Cloud Commitment,2027-07-11,2032-06-15,76358.53,15271.71,0,NULL,Active,Oskar Michalski
+57,19,12,AppVault – Cloud Commitment,Cloud Commitment,2025-05-25,2027-05-15,231358.21,115679.1,1,90,Expired,Jan Wojciechowski
+58,8,9,ByteStream GmbH – Hardware Maintenance,Hardware Maintenance,2028-08-19,2029-08-13,227560.8,227560.8,0,NULL,Expired,Cezary Nowak
+59,11,13,PrimeNet Services – Support & Services,Support & Services,2028-05-03,2030-04-22,112592.59,56296.29,1,90,Active,Paulina Michalski
+60,26,5,DataWave – Managed Services,Managed Services,2028-01-10,2032-12-15,112250.92,22450.18,1,30,Active,Aleksandra Nowacki
+61,21,10,SkyCompute – Support & Services,Support & Services,2025-02-22,2026-02-16,61086.48,61086.48,1,90,Expired,Anna Adamczyk
+62,44,14,DataSync – Support & Services,Support & Services,2028-03-26,2029-03-20,191961.71,191961.71,0,NULL,Expired,Łukasz Mazur
+63,42,8,InfraLogic – Support & Services,Support & Services,2026-01-06,2028-12-22,160522.26,53507.42,1,30,Expired,Łukasz Kozłowski
+64,27,6,TechMatrix – Support & Services,Support & Services,2028-10-04,2029-09-28,215144.61,215144.61,1,60,Expired,Sebastian Kaczmarek
+65,19,11,AppVault – Cloud Commitment,Cloud Commitment,2028-01-31,2029-01-26,116432.35,116432.35,1,60,Expired,Rafał Dąbrowski
+66,50,7,InfoVault – Managed Services,Managed Services,2025-01-03,2029-12-07,106245.65,21249.13,0,NULL,Expired,Monika Kozłowski
+67,40,13,SyncCloud – Cloud Commitment,Cloud Commitment,2028-07-04,2033-06-07,191197.68,38239.54,0,NULL,Active,Nina Krawczyk
+68,9,15,OptiCloud – Support & Services,Support & Services,2027-06-16,2032-05-21,34749.39,6949.88,1,30,Active,Julia Wójcik
+69,20,9,NetShield – SaaS Subscription,SaaS Subscription,2028-02-05,2031-01-20,27836.25,9278.75,0,NULL,Active,Joanna Dąbrowski
+70,42,14,InfraLogic – Hardware Maintenance,Hardware Maintenance,2027-10-17,2029-10-06,129673.64,64836.82,1,60,Expired,Łukasz Kaczmarek
+71,16,8,StoragePlus – Managed Services,Managed Services,2025-10-23,2028-10-08,51699.54,17233.18,1,90,Expired,Alicja Lewandowski
+72,5,5,NetEdge Corp – Cloud Commitment,Cloud Commitment,2026-11-27,2028-11-17,206034.62,103017.31,1,90,Expired,Paulina Piotrowska
+73,38,11,NetVault – Cloud Commitment,Cloud Commitment,2025-10-31,2030-10-05,136952.24,27390.45,1,60,Active,Natalia Adamczyk
+74,35,7,CloudMesh – Cloud Commitment,Cloud Commitment,2026-10-21,2028-10-11,245289.78,122644.89,0,NULL,Expired,Szymon Jankowski
+75,15,14,InfoSec Pro – Cloud Commitment,Cloud Commitment,2025-03-30,2028-03-15,187452.76,62484.25,1,60,Expired,Jakub Nowakowski
+76,10,8,SyncLogic – SaaS Subscription,SaaS Subscription,2025-09-15,2028-08-31,218076.58,72692.19,1,30,Expired,Monika Kwiatkowski
+77,1,12,MicroSphere Solutions – Hardware Maintenance,Hardware Maintenance,2027-04-19,2028-04-14,23332.92,23332.92,1,60,Expired,Magdalena Michalski
+78,26,11,DataWave – SaaS Subscription,SaaS Subscription,2026-11-03,2029-10-18,238764.2,79588.07,1,90,Expired,Bartosz Grabowski
+79,5,4,NetEdge Corp – Consulting,Consulting,2028-11-02,2030-10-22,249369.35,124684.68,0,NULL,Active,Aleksandra Dąbrowski
+80,49,11,AppStream – Consulting,Consulting,2025-07-24,2030-06-28,45759.37,9151.87,1,30,Active,Bartosz Woźniak
+81,4,5,DataPeak Ltd – Support & Services,Support & Services,2027-02-06,2030-01-21,40664.6,13554.87,1,60,Active,Szymon Pawłowski
+82,12,3,AlphaLink – Hardware Maintenance,Hardware Maintenance,2025-06-10,2028-05-26,156829.04,52276.35,0,NULL,Expired,Agnieszka Piotrowska
+83,10,4,SyncLogic – Cloud Commitment,Cloud Commitment,2028-07-30,2030-07-19,117594.77,58797.39,0,NULL,Active,Joanna Szymański
+84,44,9,DataSync – Hardware Maintenance,Hardware Maintenance,2025-05-31,2030-05-05,236582.73,47316.55,1,60,Active,Robert Wojciechowski
+85,45,5,TechVault – Cloud Commitment,Cloud Commitment,2026-09-10,2028-08-31,249846.52,124923.26,1,30,Expired,Marta Jankowski
+86,37,6,DataBridge – Managed Services,Managed Services,2026-08-28,2028-08-18,10375.2,5187.6,1,60,Expired,Adam Piotrowska
+87,44,13,DataSync – Consulting,Consulting,2025-04-10,2030-03-15,209045.53,41809.11,1,30,Active,Damian Kozłowski
+88,15,11,InfoSec Pro – Hardware Maintenance,Hardware Maintenance,2028-06-25,2030-06-14,171052.29,85526.15,0,NULL,Active,Robert Dąbrowski
+89,41,11,StorageNet – SaaS Subscription,SaaS Subscription,2026-09-24,2031-08-29,13174.31,2634.86,1,90,Active,Filip Wiśniewski
+90,19,6,AppVault – Consulting,Consulting,2027-04-30,2028-04-25,54194.72,54194.72,1,60,Expired,Monika Mazur
+91,18,14,DataSentry – Hardware Maintenance,Hardware Maintenance,2026-06-10,2031-05-15,242009.1,48401.82,1,90,Active,Sara Dąbrowski
+92,30,2,NetCore – Hardware Maintenance,Hardware Maintenance,2026-04-07,2029-03-22,241981.09,80660.36,1,60,Expired,Dorota Jankowski
+93,1,5,MicroSphere Solutions – Managed Services,Managed Services,2025-09-10,2030-08-15,95303.49,19060.7,1,90,Active,Wojciech Nowakowski
+94,24,2,DigitalEdge – Consulting,Consulting,2026-04-23,2031-03-28,11131.04,2226.21,1,60,Active,Magdalena Kowalczyk
+95,42,2,InfraLogic – Consulting,Consulting,2027-08-08,2029-07-28,164063.66,82031.83,0,NULL,Expired,Filip Nowak
+96,3,5,CloudVault Inc – Cloud Commitment,Cloud Commitment,2025-08-25,2026-08-20,62526.01,62526.01,1,30,Expired,Wojciech Kwiatkowski
+97,24,11,DigitalEdge – Consulting,Consulting,2028-11-27,2031-11-11,148898.38,49632.79,0,NULL,Active,Piotr Nowakowski
+98,7,14,SecureAxis – Cloud Commitment,Cloud Commitment,2028-06-14,2031-05-29,235068.0,78356.0,1,30,Active,Sebastian Kozłowski
+99,14,8,TechNova – Cloud Commitment,Cloud Commitment,2026-04-28,2029-04-12,29341.88,9780.63,1,90,Expired,Kasia Kozłowski
+100,4,7,DataPeak Ltd – Support & Services,Support & Services,2026-01-23,2027-01-18,237507.64,237507.64,1,30,Expired,Jakub Kamiński
+101,42,11,InfraLogic – Managed Services,Managed Services,2025-02-13,2026-02-07,197764.67,197764.67,0,NULL,Expired,Filip Piotrowska
+102,14,2,TechNova – Managed Services,Managed Services,2026-02-28,2028-02-18,204197.98,102098.99,0,NULL,Expired,Sara Adamczyk
+103,10,13,SyncLogic – Managed Services,Managed Services,2025-01-06,2026-12-26,215309.5,107654.75,0,NULL,Expired,Filip Krawczyk
+104,17,13,VirtualBridge – Hardware Maintenance,Hardware Maintenance,2025-08-13,2026-08-08,37291.79,37291.79,1,30,Expired,Karolina Woźniak
+105,2,3,NovaTech Systems – Support & Services,Support & Services,2025-04-17,2026-04-12,186720.92,186720.92,1,30,Expired,Alicja Wiśniewski
+106,31,8,SecureVault – Support & Services,Support & Services,2027-11-17,2028-11-12,115741.33,115741.33,0,NULL,Expired,Magdalena Nowak
+107,47,13,CloudEdge – Consulting,Consulting,2027-12-03,2029-11-22,117220.42,58610.21,0,NULL,Expired,Beata Kaczmarek
+108,26,7,DataWave – Consulting,Consulting,2025-08-09,2030-07-14,179538.32,35907.66,1,30,Active,Dorota Woźniak
+109,39,3,AppCore – SaaS Subscription,SaaS Subscription,2025-09-15,2027-09-05,157957.79,78978.9,1,90,Expired,Julia Woźniak
+110,25,10,ProCloud – Managed Services,Managed Services,2026-08-26,2031-07-31,128860.01,25772.0,1,30,Active,Sebastian Dąbrowski
+111,42,11,InfraLogic – Managed Services,Managed Services,2026-03-16,2029-02-28,115630.95,38543.65,0,NULL,Expired,Piotr Woźniak
+112,30,7,NetCore – Cloud Commitment,Cloud Commitment,2025-07-13,2028-06-28,109557.18,36519.06,1,60,Expired,Gosia Pawłowski
+113,31,2,SecureVault – SaaS Subscription,SaaS Subscription,2025-06-23,2026-06-18,110809.75,110809.75,1,30,Expired,Natalia Nowak
+114,38,9,NetVault – Managed Services,Managed Services,2026-11-06,2027-11-01,105648.12,105648.12,1,90,Expired,Beata Szymański
+115,39,5,AppCore – Support & Services,Support & Services,2025-07-31,2027-07-21,42908.89,21454.44,1,30,Expired,Eryk Kozłowski
+116,36,6,TechStream – SaaS Subscription,SaaS Subscription,2026-07-24,2028-07-14,202769.24,101384.62,1,90,Expired,Magdalena Pawłowski
+117,42,9,InfraLogic – SaaS Subscription,SaaS Subscription,2028-06-01,2030-05-21,12093.53,6046.77,1,90,Active,Daniel Szymański
+118,22,6,CoreSystems – SaaS Subscription,SaaS Subscription,2026-01-06,2027-01-01,143748.67,143748.67,1,30,Expired,Gosia Nowacki
+119,41,1,StorageNet – SaaS Subscription,SaaS Subscription,2027-12-22,2029-12-11,97167.63,48583.82,1,60,Expired,Hubert Kozłowski
+120,20,12,NetShield – Support & Services,Support & Services,2028-03-08,2029-03-02,221418.84,221418.84,0,NULL,Expired,Hubert Adamczyk

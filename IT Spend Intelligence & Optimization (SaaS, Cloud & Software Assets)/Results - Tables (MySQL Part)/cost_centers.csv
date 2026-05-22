@@ -1,0 +1,16 @@
+cost_center_id,department_name,annual_budget,budget_owner,cost_center_code,is_active
+1,Engineering,850000.0,Robert Dąbrowski,CC001,1
+2,Product,420000.0,Anna Nowacki,CC002,1
+3,IT Operations,680000.0,Nina Kowalczyk,CC003,1
+4,Security,310000.0,Leszek Lewandowski,CC004,1
+5,Finance,190000.0,Alicja Dąbrowski,CC005,1
+6,HR,140000.0,Ola Nowacki,CC006,1
+7,Sales,260000.0,Paweł Wiśniewski,CC007,1
+8,Marketing,230000.0,Karolina Wojciechowski,CC008,1
+9,Legal,90000.0,Bartosz Kowalski,CC009,1
+10,Customer Success,180000.0,Dorota Kamiński,CC010,1
+11,Data & Analytics,370000.0,Leszek Mazur,CC011,1
+12,DevOps,290000.0,Damian Kowalski,CC012,1
+13,Infrastructure,510000.0,Natalia Kamiński,CC013,1
+14,Research,440000.0,Julia Nowakowski,CC014,1
+15,Executive,120000.0,Sebastian Krawczyk,CC015,1

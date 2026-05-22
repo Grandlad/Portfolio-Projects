@@ -1,0 +1,501 @@
+asset_id,asset_tag,category,make,model,serial_number,cost_center_id,assigned_to_employee,location,purchase_date,purchase_price,current_book_value,end_of_life_date,condition_status,is_active,warranty_expiry
+1,IT-TAB-0001,Tablet,Apple,Apple Tablet Elite,SN472541,11,281,Kraków Office,2026-10-06,1441.62,273.51,2030-10-05,Fair,1,2028-10-06
+2,IT-PRI-0002,Printer,Canon,Canon Printer X1,SN156284,8,NULL,Berlin Office,2026-04-19,317.26,121.25,2032-04-18,Good,1,2029-04-18
+3,IT-DES-0003,Desktop,HP,HP Desktop X1,SN655575,2,51,Gdańsk Office,2028-08-12,1667.31,1203.2,2033-08-10,Excellent,1,2029-08-11
+4,IT-SER-0004,Server,Dell,Dell Server Elite,SN431752,15,NULL,Berlin Office,2029-05-21,11196.07,9815.73,2034-05-20,Excellent,1,2030-05-21
+5,IT-PHO-0005,Phone,Samsung,Samsung Phone Pro,SN104942,6,159,Remote,2024-12-26,867.93,0.0,2027-12-25,End of Life,1,2025-12-25
+6,IT-STO-0006,Storage Array,NetApp,NetApp Storage Array X1,SN764259,3,NULL,Remote,2023-12-27,46822.51,6560.65,2030-12-25,End of Life,1,2025-12-26
+7,IT-PRI-0007,Printer,HP,HP Printer Pro,SN437864,12,NULL,London Office,2025-03-27,166.98,34.23,2031-03-26,Fair,1,2028-03-27
+8,IT-LAP-0008,Laptop,Lenovo,Lenovo Laptop Pro,SN502181,5,117,London Office,2026-11-11,1329.9,285.11,2030-11-10,Fair,1,2027-11-11
+9,IT-DES-0009,Desktop,Dell,Dell Desktop A-Series,SN725339,8,221,London Office,2026-04-06,957.84,240.9,2031-04-05,Fair,1,2029-04-05
+10,IT-SER-0010,Server,HPE,HPE Server Elite,SN272892,6,NULL,Remote,2028-07-01,24918.92,17409.11,2033-06-29,Excellent,0,2029-06-30
+11,IT-SER-0011,Server,Dell,Dell Server Gen10,SN845652,3,NULL,Berlin Office,2028-08-29,19415.61,14192.01,2033-08-27,Excellent,1,2030-08-28
+12,IT-FIR-0012,Firewall,Check Point,Check Point Firewall Pro,SN150578,11,NULL,Berlin Office,2023-07-16,13593.29,0.0,2028-07-15,End of Life,1,2025-07-15
+13,IT-PRI-0013,Printer,HP,HP Printer Elite,SN828961,12,NULL,Berlin Office,2028-04-28,396.28,285.18,2034-04-26,Excellent,1,2030-04-27
+14,IT-PRI-0014,Printer,Brother,Brother Printer A-Series,SN834764,5,NULL,Kraków Office,2028-11-02,195.44,157.42,2034-10-31,Excellent,1,2029-11-01
+15,IT-TAB-0015,Tablet,Microsoft,Microsoft Tablet Pro,SN621917,2,49,Kraków Office,2026-03-03,1079.47,44.36,2030-03-02,End of Life,1,2028-03-03
+16,IT-TAB-0016,Tablet,Apple,Apple Tablet Pro,SN674765,5,118,Remote,2027-08-06,793.71,315.85,2031-08-05,Good,1,2030-08-05
+17,IT-PHO-0017,Phone,Samsung,Samsung Phone Pro,SN975804,11,281,London Office,2023-02-22,511.05,0.0,2026-02-21,End of Life,1,2024-02-22
+18,IT-DES-0018,Desktop,Lenovo,Lenovo Desktop Elite,SN578938,15,387,Gdańsk Office,2024-02-19,690.06,0.0,2029-02-18,End of Life,1,2025-02-19
+19,IT-DES-0019,Desktop,Dell,Dell Desktop Gen10,SN546688,6,164,Berlin Office,2026-04-05,1648.97,413.82,2031-04-04,Fair,1,2027-04-05
+20,IT-LAP-0020,Laptop,Lenovo,Lenovo Laptop X1,SN752011,6,150,Gdańsk Office,2024-11-30,2160.37,0.0,2028-11-29,End of Life,1,2025-11-29
+21,IT-MON-0021,Monitor,LG,LG Monitor X1,SN385037,7,NULL,Remote,2027-06-30,309.72,198.68,2034-06-28,Excellent,1,2029-06-29
+22,IT-PRI-0022,Printer,Brother,Brother Printer Pro,SN985364,2,NULL,Kraków Office,2024-11-15,548.76,79.18,2030-11-13,End of Life,1,2027-11-14
+23,IT-PHO-0023,Phone,Lenovo,Lenovo Phone Gen10,SN741055,10,263,Warsaw HQ,2025-01-13,910.55,0.0,2028-01-12,End of Life,1,2028-01-12
+24,IT-SER-0024,Server,HPE,HPE Server X1,SN148205,15,NULL,Warsaw HQ,2024-04-08,23328.36,0.0,2029-04-06,End of Life,1,2026-04-07
+25,IT-LAP-0025,Laptop,Lenovo,Lenovo Laptop A-Series,SN199868,9,238,Remote,2026-10-17,2758.0,544.04,2030-10-16,Fair,1,2027-10-17
+26,IT-PHO-0026,Phone,Samsung,Samsung Phone A-Series,SN742686,3,80,Warsaw HQ,2027-04-26,897.34,93.42,2030-04-25,End of Life,0,2028-04-26
+27,IT-TAB-0027,Tablet,Samsung,Samsung Tablet X1,SN436208,2,48,Kraków Office,2024-11-09,1337.06,0.0,2028-11-08,End of Life,1,2026-11-08
+28,IT-LAP-0028,Laptop,Lenovo,Lenovo Laptop Elite,SN182659,7,193,Remote,2027-03-31,1945.94,603.77,2031-03-30,Fair,1,2030-03-30
+29,IT-PHO-0029,Phone,Apple,Apple Phone X1,SN881439,6,142,Berlin Office,2028-01-06,1070.93,360.89,2031-01-05,Fair,0,2030-01-05
+30,IT-PRI-0030,Printer,HP,HP Printer A-Series,SN749137,14,NULL,Berlin Office,2023-01-01,400.71,0.0,2028-12-31,End of Life,1,2025-12-31
+31,IT-TAB-0031,Tablet,Apple,Apple Tablet Pro,SN956255,6,150,Kraków Office,2028-02-12,1120.06,591.48,2032-02-11,Good,1,2030-02-11
+32,IT-TAB-0032,Tablet,Microsoft,Microsoft Tablet Pro,SN202170,12,318,Berlin Office,2027-01-28,1059.95,283.86,2031-01-27,Fair,1,2029-01-28
+33,IT-MON-0033,Monitor,Samsung,Samsung Monitor Gen10,SN836201,9,NULL,Warsaw HQ,2026-04-10,778.66,363.58,2033-04-08,Good,0,2027-04-10
+34,IT-PHO-0034,Phone,Apple,Apple Phone A-Series,SN305438,2,32,Kraków Office,2027-08-04,1039.65,203.18,2030-08-03,Fair,1,2029-08-03
+35,IT-NET-0035,Network Switch,Juniper,Juniper Network Switch Pro,SN893928,12,NULL,Remote,2025-02-20,6736.79,2051.36,2032-02-18,Fair,0,2028-02-19
+36,IT-STO-0036,Storage Array,NetApp,NetApp Storage Array A-Series,SN628689,8,NULL,Kraków Office,2028-01-20,65189.44,47023.15,2035-01-18,Excellent,1,2029-01-20
+37,IT-TAB-0037,Tablet,Microsoft,Microsoft Tablet X1,SN633025,14,374,Kraków Office,2027-11-08,453.43,209.63,2031-11-07,Good,1,2028-11-08
+38,IT-SER-0038,Server,Dell,Dell Server X1,SN539001,9,NULL,London Office,2026-08-11,12135.52,3896.67,2031-08-10,Fair,1,2027-08-11
+39,IT-FIR-0039,Firewall,Fortinet,Fortinet Firewall Elite,SN532794,8,NULL,London Office,2026-04-19,19381.09,5012.53,2031-04-18,Fair,1,2029-04-18
+40,IT-TAB-0040,Tablet,Samsung,Samsung Tablet A-Series,SN763311,14,366,Kraków Office,2029-02-22,1327.38,1041.9,2033-02-21,Excellent,1,2032-02-21
+41,IT-FIR-0041,Firewall,Check Point,Check Point Firewall Elite,SN628370,12,NULL,London Office,2024-06-28,8869.99,0.0,2029-06-26,End of Life,1,2026-06-27
+42,IT-DES-0042,Desktop,HP,HP Desktop X1,SN806995,11,301,Berlin Office,2029-05-26,1274.74,1121.07,2034-05-25,Excellent,1,2032-05-26
+43,IT-FIR-0043,Firewall,Fortinet,Fortinet Firewall X1,SN252386,2,NULL,Warsaw HQ,2028-11-12,16741.18,12925.11,2033-11-10,Excellent,1,2029-11-11
+44,IT-FIR-0044,Firewall,Palo Alto,Palo Alto Firewall Pro,SN824141,3,NULL,Gdańsk Office,2025-10-23,19720.05,3176.82,2030-10-22,Fair,1,2028-10-23
+45,IT-LAP-0045,Laptop,Apple,Apple Laptop A-Series,SN335203,10,278,Berlin Office,2024-02-24,2446.65,0.0,2028-02-23,End of Life,1,2026-02-23
+46,IT-NET-0046,Network Switch,Aruba,Aruba Network Switch Pro,SN500118,12,NULL,Remote,2026-03-24,6447.01,2967.39,2033-03-22,Good,1,2029-03-23
+47,IT-MON-0047,Monitor,Samsung,Samsung Monitor X1,SN970300,4,NULL,Kraków Office,2025-10-26,232.28,93.37,2032-10-25,Good,1,2028-10-26
+48,IT-MON-0048,Monitor,Samsung,Samsung Monitor Elite,SN408467,13,NULL,Remote,2025-03-15,527.97,165.73,2032-03-14,Fair,1,2028-03-15
+49,IT-DES-0049,Desktop,Dell,Dell Desktop Pro,SN549323,2,36,Gdańsk Office,2028-10-06,1754.97,1319.35,2033-10-04,Excellent,1,2029-10-05
+50,IT-SER-0050,Server,Supermicro,Supermicro Server Elite,SN141880,6,NULL,Kraków Office,2023-01-24,21766.3,0.0,2028-01-23,End of Life,1,2026-01-23
+51,IT-LAP-0051,Laptop,Apple,Apple Laptop Gen10,SN650916,6,141,Kraków Office,2029-03-03,1832.05,1450.58,2033-03-02,Excellent,1,2032-03-03
+52,IT-DES-0052,Desktop,Lenovo,Lenovo Desktop Pro,SN466375,9,234,Kraków Office,2029-02-03,791.24,646.87,2034-02-01,Excellent,1,2032-02-02
+53,IT-MON-0053,Monitor,LG,LG Monitor A-Series,SN597923,13,NULL,London Office,2025-06-13,416.48,145.4,2032-06-12,Fair,1,2028-06-13
+54,IT-LAP-0054,Laptop,Dell,Dell Laptop A-Series,SN751303,4,112,Kraków Office,2027-12-31,2170.98,1082.52,2031-12-30,Good,1,2030-12-30
+55,IT-MON-0055,Monitor,LG,LG Monitor A-Series,SN859143,7,NULL,Gdańsk Office,2024-04-10,749.56,135.54,2031-04-08,Fair,0,2027-04-09
+56,IT-MON-0056,Monitor,Samsung,Samsung Monitor Gen10,SN783176,8,NULL,Kraków Office,2027-12-31,681.69,486.39,2034-12-29,Excellent,1,2028-12-31
+57,IT-DES-0057,Desktop,Dell,Dell Desktop Pro,SN321020,9,222,Berlin Office,2029-01-13,1765.95,1423.4,2034-01-11,Excellent,1,2030-01-12
+58,IT-PRI-0058,Printer,HP,HP Printer Elite,SN124906,11,NULL,Remote,2027-11-18,242.51,156.69,2033-11-16,Excellent,1,2028-11-18
+59,IT-DES-0059,Desktop,Dell,Dell Desktop A-Series,SN961530,9,224,Kraków Office,2025-10-28,665.12,108.97,2030-10-27,Fair,1,2027-10-28
+60,IT-PRI-0060,Printer,Canon,Canon Printer X1,SN806004,6,NULL,Warsaw HQ,2027-11-09,433.6,278.38,2033-11-07,Excellent,1,2030-11-08
+61,IT-STO-0061,Storage Array,NetApp,NetApp Storage Array Gen10,SN627262,12,NULL,Warsaw HQ,2023-07-06,64137.44,4618.9,2030-07-04,End of Life,1,2026-07-05
+62,IT-FIR-0062,Firewall,Check Point,Check Point Firewall Pro,SN597012,7,NULL,Kraków Office,2027-11-28,4470.59,2596.62,2032-11-27,Good,1,2028-11-28
+63,IT-PRI-0063,Printer,Brother,Brother Printer Gen10,SN111691,5,NULL,London Office,2024-08-14,282.74,28.79,2030-08-12,End of Life,1,2025-08-13
+64,IT-DES-0064,Desktop,Dell,Dell Desktop Pro,SN419491,9,239,Kraków Office,2027-06-03,606.04,292.89,2032-06-02,Good,1,2030-06-02
+65,IT-MON-0065,Monitor,Dell,Dell Monitor Elite,SN331512,3,NULL,London Office,2028-10-01,447.59,367.36,2035-09-29,Excellent,1,2029-09-30
+66,IT-DES-0066,Desktop,Dell,Dell Desktop A-Series,SN583671,14,357,Berlin Office,2029-05-12,1405.17,1225.0,2034-05-11,Excellent,1,2031-05-12
+67,IT-DES-0067,Desktop,HP,HP Desktop Elite,SN803904,6,150,Berlin Office,2028-06-19,717.84,496.78,2033-06-17,Excellent,1,2030-06-18
+68,IT-STO-0068,Storage Array,NetApp,NetApp Storage Array Gen10,SN746281,8,NULL,Berlin Office,2026-07-25,73507.71,37372.41,2033-07-23,Good,1,2029-07-24
+69,IT-SER-0069,Server,Supermicro,Supermicro Server Pro,SN428429,7,NULL,Kraków Office,2026-07-19,15904.1,4906.31,2031-07-18,Fair,1,2029-07-18
+70,IT-PRI-0070,Printer,Canon,Canon Printer Gen10,SN603268,11,NULL,Remote,2024-07-05,528.05,44.12,2030-07-03,End of Life,1,2026-07-04
+71,IT-PHO-0071,Phone,Lenovo,Lenovo Phone Elite,SN664781,14,364,Kraków Office,2023-12-02,397.95,0.0,2026-12-01,End of Life,1,2026-12-01
+72,IT-DES-0072,Desktop,Lenovo,Lenovo Desktop Pro,SN952117,14,372,London Office,2023-03-18,690.48,0.0,2028-03-17,End of Life,1,2026-03-17
+73,IT-NET-0073,Network Switch,Cisco,Cisco Network Switch X1,SN785672,15,NULL,Kraków Office,2029-02-05,4771.48,4153.34,2036-02-03,Excellent,1,2030-02-04
+74,IT-STO-0074,Storage Array,Dell EMC,Dell EMC Storage Array A-Series,SN194952,8,NULL,Remote,2024-07-03,70715.67,15111.84,2031-07-01,Fair,1,2025-07-02
+75,IT-NET-0075,Network Switch,Aruba,Aruba Network Switch Elite,SN287847,3,NULL,London Office,2028-10-07,5725.96,4712.99,2035-10-05,Excellent,1,2031-10-06
+76,IT-SER-0076,Server,Supermicro,Supermicro Server X1,SN343007,1,NULL,Warsaw HQ,2027-01-09,19372.09,7823.14,2032-01-08,Good,1,2028-01-09
+77,IT-LAP-0077,Laptop,Lenovo,Lenovo Laptop X1,SN148693,7,182,Warsaw HQ,2027-01-19,1883.98,492.93,2031-01-18,Fair,1,2029-01-19
+78,IT-DES-0078,Desktop,Lenovo,Lenovo Desktop A-Series,SN670792,14,364,London Office,2026-01-25,1762.13,374.63,2031-01-24,Fair,1,2029-01-25
+79,IT-PRI-0079,Printer,Canon,Canon Printer X1,SN333726,9,NULL,London Office,2023-11-15,414.46,0.0,2029-11-13,End of Life,1,2025-11-14
+80,IT-PHO-0080,Phone,Samsung,Samsung Phone Elite,SN561267,9,250,Kraków Office,2023-01-28,1098.45,0.0,2026-01-27,End of Life,1,2026-01-27
+81,IT-FIR-0081,Firewall,Palo Alto,Palo Alto Firewall Pro,SN793223,6,NULL,Kraków Office,2024-10-07,5554.09,0.0,2029-10-05,End of Life,1,2026-10-06
+82,IT-DES-0082,Desktop,HP,HP Desktop Elite,SN778700,4,102,Remote,2028-05-17,1410.28,950.49,2033-05-15,Excellent,0,2029-05-16
+83,IT-SER-0083,Server,Supermicro,Supermicro Server Pro,SN700067,11,NULL,Kraków Office,2024-07-06,16439.3,0.0,2029-07-04,End of Life,1,2026-07-05
+84,IT-SER-0084,Server,Supermicro,Supermicro Server Gen10,SN189913,11,NULL,Kraków Office,2029-04-27,24123.01,20831.71,2034-04-26,Excellent,1,2031-04-27
+85,IT-PHO-0085,Phone,Apple,Apple Phone A-Series,SN960307,10,255,Kraków Office,2027-08-10,497.43,99.94,2030-08-09,Fair,1,2030-08-09
+86,IT-FIR-0086,Firewall,Palo Alto,Palo Alto Firewall A-Series,SN719284,15,NULL,Warsaw HQ,2026-11-04,15311.18,5629.48,2031-11-03,Good,1,2028-11-04
+87,IT-SER-0087,Server,Dell,Dell Server X1,SN966662,14,NULL,Kraków Office,2028-11-12,4347.82,3356.76,2033-11-10,Excellent,1,2029-11-11
+88,IT-PHO-0088,Phone,Lenovo,Lenovo Phone Pro,SN197716,9,246,Remote,2028-12-17,839.83,547.62,2031-12-16,Excellent,1,2031-12-16
+89,IT-TAB-0089,Tablet,Apple,Apple Tablet Gen10,SN145548,9,235,Berlin Office,2027-11-03,1386.67,636.35,2031-11-02,Good,1,2028-11-03
+90,IT-PHO-0090,Phone,Samsung,Samsung Phone Gen10,SN600318,7,171,Kraków Office,2024-02-05,615.47,0.0,2027-02-04,End of Life,1,2025-02-05
+91,IT-FIR-0091,Firewall,Check Point,Check Point Firewall Pro,SN843596,5,NULL,Berlin Office,2027-08-01,17905.03,9232.13,2032-07-31,Good,1,2030-07-31
+92,IT-TAB-0092,Tablet,Apple,Apple Tablet Gen10,SN528705,11,285,Gdańsk Office,2027-03-17,971.74,292.19,2031-03-16,Fair,1,2029-03-16
+93,IT-STO-0093,Storage Array,Pure Storage,Pure Storage Storage Array Gen10,SN741603,7,NULL,Gdańsk Office,2029-01-05,31984.69,27453.0,2036-01-03,Excellent,1,2031-01-04
+94,IT-NET-0094,Network Switch,Juniper,Juniper Network Switch Gen10,SN686252,8,NULL,London Office,2029-04-02,4775.16,4263.07,2036-04-01,Excellent,1,2031-04-02
+95,IT-STO-0095,Storage Array,Pure Storage,Pure Storage Storage Array Pro,SN884140,12,NULL,Kraków Office,2027-06-19,65322.64,41622.41,2034-06-17,Excellent,1,2030-06-18
+96,IT-SER-0096,Server,Dell,Dell Server A-Series,SN743852,13,NULL,Berlin Office,2027-06-29,8503.62,4230.84,2032-06-28,Good,1,2028-06-29
+97,IT-SER-0097,Server,HPE,HPE Server Elite,SN594580,13,NULL,London Office,2023-01-22,24255.98,0.0,2028-01-21,End of Life,1,2024-01-22
+98,IT-FIR-0098,Firewall,Palo Alto,Palo Alto Firewall X1,SN743789,12,NULL,Berlin Office,2023-06-04,9304.2,0.0,2028-06-03,End of Life,1,2026-06-03
+99,IT-STO-0099,Storage Array,NetApp,NetApp Storage Array X1,SN111230,11,NULL,Kraków Office,2024-12-19,76471.53,21400.06,2031-12-17,Fair,1,2027-12-18
+100,IT-FIR-0100,Firewall,Palo Alto,Palo Alto Firewall Elite,SN745073,9,NULL,Kraków Office,2028-09-23,3571.36,2659.44,2033-09-21,Excellent,1,2030-09-22
+101,IT-NET-0101,Network Switch,Aruba,Aruba Network Switch X1,SN470281,2,NULL,Berlin Office,2024-10-07,802.07,201.54,2031-10-05,Fair,1,2027-10-06
+102,IT-NET-0102,Network Switch,Aruba,Aruba Network Switch A-Series,SN398313,15,NULL,Berlin Office,2023-10-09,910.64,99.44,2030-10-07,End of Life,1,2026-10-08
+103,IT-MON-0103,Monitor,LG,LG Monitor Elite,SN576849,4,NULL,Remote,2026-02-06,777.97,344.07,2033-02-05,Good,1,2028-02-06
+104,IT-SER-0104,Server,HPE,HPE Server Gen10,SN456480,2,NULL,Warsaw HQ,2029-04-07,14631.0,12474.43,2034-04-06,Excellent,1,2031-04-07
+105,IT-TAB-0105,Tablet,Microsoft,Microsoft Tablet X1,SN907369,7,185,Kraków Office,2027-12-19,675.16,331.11,2031-12-18,Good,1,2029-12-18
+106,IT-PHO-0106,Phone,Lenovo,Lenovo Phone Pro,SN501261,2,32,Berlin Office,2028-05-29,1075.82,503.03,2031-05-28,Good,1,2029-05-28
+107,IT-NET-0107,Network Switch,Juniper,Juniper Network Switch Pro,SN834861,9,NULL,Gdańsk Office,2026-12-17,3769.47,2130.38,2033-12-15,Good,1,2027-12-17
+108,IT-PRI-0108,Printer,Brother,Brother Printer Elite,SN599704,2,NULL,Gdańsk Office,2026-11-01,486.95,229.69,2032-10-31,Good,1,2029-10-31
+109,IT-FIR-0109,Firewall,Palo Alto,Palo Alto Firewall Elite,SN346269,8,NULL,Berlin Office,2025-02-18,19101.01,481.45,2030-02-16,End of Life,1,2027-02-17
+110,IT-NET-0110,Network Switch,Cisco,Cisco Network Switch Gen10,SN263573,14,NULL,Warsaw HQ,2025-10-19,2259.92,902.2,2032-10-18,Good,1,2026-10-19
+111,IT-PHO-0111,Phone,Lenovo,Lenovo Phone Gen10,SN750817,1,16,Gdańsk Office,2029-01-27,305.96,210.96,2032-01-26,Excellent,1,2032-01-26
+112,IT-FIR-0112,Firewall,Fortinet,Fortinet Firewall Elite,SN886609,5,NULL,London Office,2028-09-25,6108.82,4555.67,2033-09-23,Excellent,1,2031-09-24
+113,IT-PRI-0113,Printer,Canon,Canon Printer X1,SN819678,9,NULL,Kraków Office,2023-05-14,572.84,0.0,2029-05-12,End of Life,1,2024-05-14
+114,IT-TAB-0114,Tablet,Samsung,Samsung Tablet Elite,SN497859,1,22,London Office,2023-02-04,747.22,0.0,2027-02-03,End of Life,1,2025-02-04
+115,IT-STO-0115,Storage Array,Pure Storage,Pure Storage Storage Array X1,SN742865,4,NULL,Gdańsk Office,2025-12-12,27164.91,11418.83,2032-12-11,Good,1,2027-12-12
+116,IT-PRI-0116,Printer,HP,HP Printer X1,SN393212,6,NULL,Remote,2027-03-05,338.59,178.88,2033-03-03,Good,1,2028-03-05
+117,IT-STO-0117,Storage Array,Dell EMC,Dell EMC Storage Array Elite,SN682316,12,NULL,Remote,2024-02-14,29856.84,4756.06,2031-02-12,Fair,1,2025-02-14
+118,IT-SER-0118,Server,Supermicro,Supermicro Server X1,SN241003,3,NULL,Berlin Office,2023-02-09,7140.51,0.0,2028-02-08,End of Life,1,2026-02-08
+119,IT-MON-0119,Monitor,LG,LG Monitor Pro,SN517754,14,NULL,Warsaw HQ,2029-04-21,380.02,342.09,2036-04-20,Excellent,1,2030-04-21
+120,IT-NET-0120,Network Switch,Juniper,Juniper Network Switch Gen10,SN372387,8,NULL,Gdańsk Office,2024-01-30,4231.08,649.15,2031-01-28,Fair,1,2027-01-29
+121,IT-FIR-0121,Firewall,Fortinet,Fortinet Firewall A-Series,SN308622,6,NULL,London Office,2024-05-12,3337.2,0.0,2029-05-10,End of Life,1,2027-05-11
+122,IT-TAB-0122,Tablet,Apple,Apple Tablet A-Series,SN611174,6,149,Berlin Office,2026-03-11,1477.31,68.81,2030-03-10,End of Life,1,2027-03-11
+123,IT-PRI-0123,Printer,Brother,Brother Printer Gen10,SN542306,14,NULL,Berlin Office,2024-08-17,278.94,28.79,2030-08-15,End of Life,1,2026-08-16
+124,IT-DES-0124,Desktop,Dell,Dell Desktop Gen10,SN844943,6,149,Gdańsk Office,2025-07-23,794.4,87.93,2030-07-22,End of Life,1,2027-07-23
+125,IT-FIR-0125,Firewall,Fortinet,Fortinet Firewall A-Series,SN572161,12,NULL,Remote,2027-01-27,16276.56,6733.59,2032-01-26,Good,1,2028-01-27
+126,IT-SER-0126,Server,Supermicro,Supermicro Server Pro,SN320800,12,NULL,Kraków Office,2025-10-27,8927.17,1457.7,2030-10-26,Fair,1,2026-10-27
+127,IT-DES-0127,Desktop,HP,HP Desktop A-Series,SN902156,13,340,Warsaw HQ,2023-04-18,1258.12,0.0,2028-04-17,End of Life,1,2026-04-17
+128,IT-SER-0128,Server,Dell,Dell Server Elite,SN873422,5,NULL,Gdańsk Office,2027-05-16,17751.49,8403.99,2032-05-15,Good,1,2028-05-16
+129,IT-SER-0129,Server,Supermicro,Supermicro Server Gen10,SN440998,1,NULL,Remote,2023-04-28,21608.87,0.0,2028-04-27,End of Life,1,2026-04-27
+130,IT-FIR-0130,Firewall,Check Point,Check Point Firewall A-Series,SN578720,3,NULL,Berlin Office,2029-01-18,10562.36,8542.49,2034-01-16,Excellent,1,2032-01-17
+131,IT-PRI-0131,Printer,Brother,Brother Printer X1,SN665883,5,NULL,Kraków Office,2028-12-27,437.9,363.72,2034-12-25,Excellent,1,2030-12-26
+132,IT-FIR-0132,Firewall,Fortinet,Fortinet Firewall Pro,SN648736,5,NULL,Kraków Office,2024-09-30,10007.46,0.0,2029-09-28,End of Life,1,2026-09-29
+133,IT-TAB-0133,Tablet,Apple,Apple Tablet Gen10,SN109576,13,343,Remote,2028-07-08,1156.55,726.41,2032-07-07,Excellent,1,2031-07-07
+134,IT-NET-0134,Network Switch,Cisco,Cisco Network Switch A-Series,SN558339,7,NULL,Remote,2025-02-12,4747.13,1430.64,2032-02-10,Fair,1,2028-02-11
+135,IT-PRI-0135,Printer,Canon,Canon Printer Elite,SN641704,7,NULL,London Office,2023-11-21,249.27,0.0,2029-11-19,End of Life,1,2026-11-20
+136,IT-FIR-0136,Firewall,Fortinet,Fortinet Firewall X1,SN297132,13,NULL,Warsaw HQ,2028-12-19,14023.77,11111.44,2033-12-17,Excellent,1,2030-12-18
+137,IT-DES-0137,Desktop,Lenovo,Lenovo Desktop A-Series,SN615895,5,135,Kraków Office,2028-01-29,1146.41,704.81,2033-01-28,Excellent,1,2029-01-29
+138,IT-LAP-0138,Laptop,Dell,Dell Laptop Elite,SN849937,5,121,Remote,2024-02-23,1253.28,0.0,2028-02-22,End of Life,1,2025-02-23
+139,IT-DES-0139,Desktop,Dell,Dell Desktop Gen10,SN923892,6,152,Remote,2025-06-08,617.67,53.14,2030-06-07,End of Life,1,2027-06-08
+140,IT-LAP-0140,Laptop,Apple,Apple Laptop X1,SN174852,1,9,London Office,2024-08-22,1052.42,0.0,2028-08-21,End of Life,1,2025-08-21
+141,IT-FIR-0141,Firewall,Fortinet,Fortinet Firewall Elite,SN503489,13,NULL,Remote,2024-05-15,17080.28,0.0,2029-05-13,End of Life,1,2025-05-14
+142,IT-NET-0142,Network Switch,Juniper,Juniper Network Switch Elite,SN595793,9,NULL,Remote,2024-01-20,6094.32,911.17,2031-01-18,End of Life,1,2026-01-19
+143,IT-MON-0143,Monitor,Dell,Dell Monitor A-Series,SN228074,12,NULL,Gdańsk Office,2023-06-22,577.5,38.42,2030-06-20,End of Life,1,2025-06-21
+144,IT-NET-0144,Network Switch,Juniper,Juniper Network Switch X1,SN440277,2,NULL,Warsaw HQ,2025-06-11,7190.14,2504.59,2032-06-10,Fair,1,2027-06-11
+145,IT-STO-0145,Storage Array,NetApp,NetApp Storage Array A-Series,SN921533,1,NULL,Berlin Office,2025-09-22,40727.54,15828.75,2032-09-21,Good,1,2028-09-22
+146,IT-SER-0146,Server,HPE,HPE Server Pro,SN819265,3,NULL,London Office,2025-10-15,20186.74,3163.51,2030-10-14,Fair,1,2028-10-15
+147,IT-LAP-0147,Laptop,Dell,Dell Laptop Pro,SN231939,12,321,Remote,2024-09-23,1575.48,0.0,2028-09-22,End of Life,1,2027-09-22
+148,IT-MON-0148,Monitor,LG,LG Monitor Gen10,SN859587,12,NULL,Kraków Office,2023-03-29,639.91,21.29,2030-03-27,End of Life,1,2024-03-29
+149,IT-PHO-0149,Phone,Lenovo,Lenovo Phone X1,SN298994,9,244,London Office,2026-04-22,693.75,0.0,2029-04-21,End of Life,1,2028-04-22
+150,IT-MON-0150,Monitor,Samsung,Samsung Monitor A-Series,SN262555,3,NULL,Remote,2029-03-21,481.04,427.19,2036-03-20,Excellent,1,2031-03-21
+151,IT-TAB-0151,Tablet,Samsung,Samsung Tablet Elite,SN119629,7,190,London Office,2028-09-04,899.49,600.69,2032-09-03,Excellent,1,2031-09-03
+152,IT-NET-0152,Network Switch,Juniper,Juniper Network Switch Elite,SN649526,14,NULL,Berlin Office,2029-01-17,5991.23,5170.51,2036-01-15,Excellent,1,2032-01-16
+153,IT-SER-0153,Server,Supermicro,Supermicro Server Pro,SN200932,11,NULL,London Office,2027-08-06,9945.71,5155.42,2032-08-05,Good,1,2028-08-06
+154,IT-SER-0154,Server,Dell,Dell Server Elite,SN203550,2,NULL,Warsaw HQ,2025-04-07,22343.35,1163.08,2030-04-06,End of Life,1,2027-04-07
+155,IT-PHO-0155,Phone,Lenovo,Lenovo Phone Elite,SN735388,1,12,Berlin Office,2025-11-14,861.57,0.0,2028-11-14,End of Life,1,2026-11-14
+156,IT-PHO-0156,Phone,Apple,Apple Phone X1,SN961957,6,156,Gdańsk Office,2023-09-06,721.25,0.0,2026-09-05,End of Life,1,2024-09-06
+157,IT-STO-0157,Storage Array,Pure Storage,Pure Storage Storage Array Pro,SN326387,14,NULL,London Office,2023-10-16,49386.35,5528.18,2030-10-14,End of Life,1,2026-10-15
+158,IT-NET-0158,Network Switch,Aruba,Aruba Network Switch Elite,SN697717,9,NULL,Berlin Office,2025-03-02,3574.38,1103.79,2032-03-01,Fair,1,2028-03-02
+159,IT-TAB-0159,Tablet,Samsung,Samsung Tablet X1,SN209159,11,293,Kraków Office,2027-01-06,1220.72,308.52,2031-01-05,Fair,1,2030-01-05
+160,IT-PRI-0160,Printer,Brother,Brother Printer X1,SN469438,9,NULL,Gdańsk Office,2024-10-10,301.88,38.6,2030-10-08,End of Life,1,2026-10-09
+161,IT-MON-0161,Monitor,LG,LG Monitor A-Series,SN352415,14,NULL,London Office,2027-10-30,658.51,453.87,2034-10-28,Excellent,1,2029-10-29
+162,IT-TAB-0162,Tablet,Microsoft,Microsoft Tablet Pro,SN861594,8,210,Warsaw HQ,2028-01-28,679.5,351.85,2032-01-27,Good,1,2031-01-27
+163,IT-LAP-0163,Laptop,Lenovo,Lenovo Laptop Elite,SN325258,1,10,Gdańsk Office,2026-05-21,2787.48,265.38,2030-05-20,End of Life,0,2029-05-20
+164,IT-FIR-0164,Firewall,Check Point,Check Point Firewall Elite,SN198867,15,NULL,Warsaw HQ,2029-05-26,11691.62,10282.22,2034-05-25,Excellent,1,2030-05-26
+165,IT-SER-0165,Server,HPE,HPE Server Gen10,SN196369,4,NULL,London Office,2025-10-20,11708.74,1866.98,2030-10-19,Fair,1,2026-10-20
+166,IT-DES-0166,Desktop,Lenovo,Lenovo Desktop A-Series,SN959324,3,69,Warsaw HQ,2028-05-31,989.63,674.58,2033-05-29,Excellent,1,2030-05-30
+167,IT-LAP-0167,Laptop,HP,HP Laptop Gen10,SN956835,15,389,Remote,2023-08-18,1049.11,0.0,2027-08-17,End of Life,1,2024-08-18
+168,IT-NET-0168,Network Switch,Aruba,Aruba Network Switch X1,SN156757,11,NULL,Gdańsk Office,2023-02-16,5500.01,94.72,2030-02-14,End of Life,1,2025-02-16
+169,IT-TAB-0169,Tablet,Microsoft,Microsoft Tablet Elite,SN152973,12,311,Berlin Office,2028-08-20,564.54,371.2,2032-08-19,Excellent,1,2030-08-19
+170,IT-PHO-0170,Phone,Lenovo,Lenovo Phone Gen10,SN924566,4,97,Remote,2024-01-04,817.73,0.0,2027-01-03,End of Life,1,2026-01-03
+171,IT-DES-0171,Desktop,HP,HP Desktop Gen10,SN189211,9,234,Remote,2023-07-21,1285.73,0.0,2028-07-20,End of Life,1,2026-07-20
+172,IT-SER-0172,Server,Dell,Dell Server A-Series,SN305625,8,NULL,London Office,2025-03-22,14099.37,610.33,2030-03-21,End of Life,1,2028-03-22
+173,IT-TAB-0173,Tablet,Apple,Apple Tablet Gen10,SN817999,13,341,London Office,2025-12-26,666.55,0.0,2029-12-25,End of Life,1,2028-12-26
+174,IT-PRI-0174,Printer,Canon,Canon Printer A-Series,SN787247,6,NULL,Warsaw HQ,2025-02-20,314.37,59.29,2031-02-18,Fair,1,2026-02-19
+175,IT-MON-0175,Monitor,Samsung,Samsung Monitor X1,SN147057,10,NULL,Kraków Office,2027-12-17,692.95,490.62,2034-12-15,Excellent,1,2029-12-16
+176,IT-SER-0176,Server,Supermicro,Supermicro Server Elite,SN751168,12,NULL,Kraków Office,2024-04-06,21908.05,0.0,2029-04-04,End of Life,1,2026-04-05
+177,IT-LAP-0177,Laptop,Apple,Apple Laptop X1,SN123853,5,127,Gdańsk Office,2024-04-01,2218.21,0.0,2028-03-31,End of Life,1,2027-03-31
+178,IT-NET-0178,Network Switch,Cisco,Cisco Network Switch A-Series,SN865380,9,NULL,Kraków Office,2025-11-25,4734.25,1958.55,2032-11-24,Good,1,2028-11-25
+179,IT-LAP-0179,Laptop,HP,HP Laptop Elite,SN163029,1,9,Gdańsk Office,2028-11-28,2007.71,1457.65,2032-11-27,Excellent,1,2031-11-27
+180,IT-STO-0180,Storage Array,Pure Storage,Pure Storage Storage Array Gen10,SN795186,2,NULL,Berlin Office,2023-02-04,18450.54,231.08,2030-02-02,End of Life,1,2024-02-04
+181,IT-LAP-0181,Laptop,Apple,Apple Laptop A-Series,SN844162,4,96,Warsaw HQ,2027-05-03,2548.08,848.2,2031-05-02,Fair,1,2029-05-02
+182,IT-STO-0182,Storage Array,Dell EMC,Dell EMC Storage Array A-Series,SN847078,9,NULL,Warsaw HQ,2025-03-25,20721.34,6585.41,2032-03-24,Fair,0,2028-03-25
+183,IT-FIR-0183,Firewall,Fortinet,Fortinet Firewall Gen10,SN472640,1,NULL,Berlin Office,2024-10-06,11328.86,0.0,2029-10-04,End of Life,1,2027-10-05
+184,IT-FIR-0184,Firewall,Palo Alto,Palo Alto Firewall A-Series,SN393804,15,NULL,Kraków Office,2027-05-05,13638.47,6374.58,2032-05-04,Good,1,2029-05-04
+185,IT-SER-0185,Server,Dell,Dell Server Elite,SN537605,11,NULL,Kraków Office,2028-11-03,19327.68,14826.71,2033-11-01,Excellent,1,2030-11-02
+186,IT-FIR-0186,Firewall,Check Point,Check Point Firewall Elite,SN709254,3,NULL,London Office,2029-01-30,8597.84,7010.18,2034-01-28,Excellent,1,2030-01-29
+187,IT-SER-0187,Server,HPE,HPE Server X1,SN907455,15,NULL,Kraków Office,2028-11-16,18459.17,14291.95,2033-11-14,Excellent,1,2031-11-15
+188,IT-SER-0188,Server,HPE,HPE Server Elite,SN433025,12,NULL,Kraków Office,2028-12-24,5424.09,4312.52,2033-12-22,Excellent,1,2030-12-23
+189,IT-PRI-0189,Printer,Canon,Canon Printer Elite,SN211957,3,NULL,Kraków Office,2026-01-26,286.51,98.64,2032-01-25,Fair,1,2029-01-26
+190,IT-STO-0190,Storage Array,Pure Storage,Pure Storage Storage Array Elite,SN820767,10,NULL,Warsaw HQ,2025-08-03,54364.29,20064.78,2032-08-02,Good,1,2028-08-03
+191,IT-PHO-0191,Phone,Apple,Apple Phone Gen10,SN292913,12,324,Remote,2028-04-05,752.09,314.57,2031-04-04,Good,1,2029-04-04
+192,IT-SER-0192,Server,Dell,Dell Server Gen10,SN533108,13,NULL,Kraków Office,2027-08-01,8751.73,4512.54,2032-07-31,Good,1,2028-08-01
+193,IT-NET-0193,Network Switch,Cisco,Cisco Network Switch X1,SN821276,14,NULL,Gdańsk Office,2027-12-05,2074.96,1459.37,2034-12-03,Excellent,1,2028-12-05
+194,IT-PRI-0194,Printer,Canon,Canon Printer X1,SN741209,12,NULL,Berlin Office,2027-04-08,499.3,271.54,2033-04-06,Good,1,2030-04-07
+195,IT-TAB-0195,Tablet,Microsoft,Microsoft Tablet X1,SN579094,9,225,Warsaw HQ,2023-06-07,1363.36,0.0,2027-06-06,End of Life,1,2024-06-07
+196,IT-TAB-0196,Tablet,Microsoft,Microsoft Tablet A-Series,SN902328,9,234,Berlin Office,2023-06-10,835.17,0.0,2027-06-09,End of Life,1,2024-06-10
+197,IT-FIR-0197,Firewall,Fortinet,Fortinet Firewall Gen10,SN583757,13,NULL,Kraków Office,2026-06-01,9766.68,2756.08,2031-05-31,Fair,1,2029-05-31
+198,IT-LAP-0198,Laptop,Lenovo,Lenovo Laptop A-Series,SN218669,2,47,Kraków Office,2028-01-25,1780.8,918.45,2032-01-24,Good,1,2031-01-24
+199,IT-TAB-0199,Tablet,Apple,Apple Tablet Elite,SN575718,8,198,London Office,2026-08-17,832.37,129.42,2030-08-16,Fair,1,2027-08-17
+200,IT-PHO-0200,Phone,Apple,Apple Phone Pro,SN195620,12,327,Warsaw HQ,2024-11-03,525.07,0.0,2027-11-02,End of Life,1,2027-11-02
+201,IT-MON-0201,Monitor,Dell,Dell Monitor A-Series,SN267666,12,NULL,Remote,2027-04-23,514.29,316.22,2034-04-21,Excellent,1,2028-04-23
+202,IT-SER-0202,Server,HPE,HPE Server Elite,SN287555,3,NULL,Berlin Office,2024-09-07,15875.32,0.0,2029-09-05,End of Life,1,2026-09-06
+203,IT-FIR-0203,Firewall,Check Point,Check Point Firewall Elite,SN223264,5,NULL,Kraków Office,2028-01-02,16066.72,9640.03,2033-01-01,Excellent,1,2029-01-02
+204,IT-STO-0204,Storage Array,Pure Storage,Pure Storage Storage Array A-Series,SN946677,14,NULL,Warsaw HQ,2028-08-01,15793.5,12585.35,2035-07-30,Excellent,1,2030-07-31
+205,IT-NET-0205,Network Switch,Cisco,Cisco Network Switch X1,SN183262,8,NULL,London Office,2028-05-03,5039.81,3838.54,2035-05-01,Excellent,1,2029-05-02
+206,IT-TAB-0206,Tablet,Samsung,Samsung Tablet Pro,SN293818,14,362,Kraków Office,2029-04-02,1081.74,878.73,2033-04-01,Excellent,1,2031-04-02
+207,IT-LAP-0207,Laptop,Lenovo,Lenovo Laptop Pro,SN214176,6,141,Remote,2026-05-07,2522.28,215.95,2030-05-06,End of Life,1,2027-05-07
+208,IT-FIR-0208,Firewall,Check Point,Check Point Firewall A-Series,SN477685,3,NULL,Warsaw HQ,2029-04-21,14235.72,12246.62,2034-04-20,Excellent,1,2031-04-21
+209,IT-MON-0209,Monitor,LG,LG Monitor A-Series,SN168079,13,NULL,Gdańsk Office,2023-10-05,738.52,79.49,2030-10-03,End of Life,1,2024-10-05
+210,IT-FIR-0210,Firewall,Fortinet,Fortinet Firewall Elite,SN741784,4,NULL,Warsaw HQ,2028-11-19,11959.9,9279.57,2033-11-17,Excellent,1,2031-11-18
+211,IT-TAB-0211,Tablet,Apple,Apple Tablet Gen10,SN372273,7,186,London Office,2026-03-22,932.03,50.43,2030-03-21,End of Life,1,2029-03-21
+212,IT-MON-0212,Monitor,Dell,Dell Monitor X1,SN616428,9,NULL,Kraków Office,2028-07-27,568.57,451.96,2035-07-25,Excellent,1,2029-07-26
+213,IT-FIR-0213,Firewall,Palo Alto,Palo Alto Firewall Pro,SN873291,8,NULL,Kraków Office,2023-04-09,3026.88,0.0,2028-04-08,End of Life,1,2025-04-08
+214,IT-PRI-0214,Printer,HP,HP Printer Elite,SN111846,13,NULL,Berlin Office,2029-04-14,300.21,264.29,2035-04-13,Excellent,1,2031-04-14
+215,IT-FIR-0215,Firewall,Palo Alto,Palo Alto Firewall Pro,SN219366,9,NULL,Berlin Office,2028-09-07,8232.13,6057.95,2033-09-05,Excellent,1,2030-09-06
+216,IT-STO-0216,Storage Array,Dell EMC,Dell EMC Storage Array Gen10,SN805139,4,NULL,Remote,2024-12-21,77407.33,21722.53,2031-12-19,Fair,1,2025-12-20
+217,IT-SER-0217,Server,HPE,HPE Server Gen10,SN584935,15,NULL,Remote,2028-03-02,7263.11,4592.67,2033-02-28,Excellent,1,2029-03-01
+218,IT-TAB-0218,Tablet,Samsung,Samsung Tablet Pro,SN318379,9,239,London Office,2026-07-16,1021.44,136.43,2030-07-15,End of Life,1,2028-07-16
+219,IT-DES-0219,Desktop,Dell,Dell Desktop A-Series,SN983326,6,151,Kraków Office,2023-05-08,936.55,0.0,2028-05-07,End of Life,1,2025-05-07
+220,IT-SER-0220,Server,Supermicro,Supermicro Server Pro,SN384685,12,NULL,Remote,2026-06-16,6453.74,1874.24,2031-06-15,Fair,1,2027-06-16
+221,IT-MON-0221,Monitor,LG,LG Monitor Gen10,SN283514,4,NULL,Warsaw HQ,2026-05-24,697.67,337.78,2033-05-22,Good,1,2027-05-24
+222,IT-NET-0222,Network Switch,Cisco,Cisco Network Switch A-Series,SN261562,13,NULL,Kraków Office,2023-04-13,3995.17,156.37,2030-04-11,End of Life,1,2025-04-12
+223,IT-TAB-0223,Tablet,Samsung,Samsung Tablet Pro,SN962074,13,355,London Office,2024-08-10,1253.09,0.0,2028-08-09,End of Life,1,2025-08-09
+224,IT-NET-0224,Network Switch,Aruba,Aruba Network Switch Pro,SN104309,12,NULL,Gdańsk Office,2027-05-07,1063.18,659.55,2034-05-05,Excellent,1,2030-05-06
+225,IT-STO-0225,Storage Array,NetApp,NetApp Storage Array Gen10,SN123572,2,NULL,London Office,2023-07-08,36663.83,2669.07,2030-07-06,End of Life,1,2026-07-07
+226,IT-NET-0226,Network Switch,Juniper,Juniper Network Switch Gen10,SN910326,5,NULL,Remote,2026-03-19,2244.0,1028.46,2033-03-17,Good,1,2028-03-19
+227,IT-SER-0227,Server,Dell,Dell Server A-Series,SN207348,10,NULL,Kraków Office,2023-03-04,9746.37,0.0,2028-03-03,End of Life,1,2026-03-03
+228,IT-MON-0228,Monitor,LG,LG Monitor Elite,SN174703,10,NULL,Gdańsk Office,2026-03-06,284.93,129.14,2033-03-04,Good,1,2028-03-06
+229,IT-TAB-0229,Tablet,Samsung,Samsung Tablet Pro,SN211072,8,219,Remote,2023-04-29,455.8,0.0,2027-04-28,End of Life,1,2025-04-28
+230,IT-PRI-0230,Printer,HP,HP Printer Gen10,SN448475,10,NULL,Kraków Office,2028-01-01,467.1,311.19,2033-12-30,Excellent,1,2030-12-31
+231,IT-TAB-0231,Tablet,Apple,Apple Tablet Pro,SN952336,10,255,Berlin Office,2028-03-23,1471.05,816.13,2032-03-22,Good,1,2030-03-22
+232,IT-FIR-0232,Firewall,Check Point,Check Point Firewall Elite,SN250703,8,NULL,London Office,2028-03-22,13955.12,8977.16,2033-03-20,Excellent,1,2030-03-21
+233,IT-PRI-0233,Printer,HP,HP Printer Gen10,SN575301,13,NULL,Remote,2026-09-15,464.83,209.28,2032-09-14,Good,0,2028-09-15
+234,IT-DES-0234,Desktop,HP,HP Desktop Gen10,SN733801,5,137,London Office,2024-12-01,1174.38,0.0,2029-11-29,End of Life,1,2025-11-30
+235,IT-PRI-0235,Printer,Brother,Brother Printer Pro,SN930924,9,NULL,Gdańsk Office,2026-08-27,508.54,224.55,2032-08-26,Good,1,2028-08-27
+236,IT-STO-0236,Storage Array,Pure Storage,Pure Storage Storage Array X1,SN502460,9,NULL,Warsaw HQ,2025-09-25,30507.39,11892.51,2032-09-24,Good,1,2028-09-25
+237,IT-STO-0237,Storage Array,Pure Storage,Pure Storage Storage Array Gen10,SN670977,10,NULL,Berlin Office,2027-11-19,65980.41,45992.61,2034-11-17,Excellent,1,2030-11-18
+238,IT-DES-0238,Desktop,Lenovo,Lenovo Desktop A-Series,SN585394,2,42,Gdańsk Office,2028-06-17,1717.04,1186.4,2033-06-15,Excellent,1,2030-06-16
+239,IT-SER-0239,Server,HPE,HPE Server A-Series,SN908812,10,NULL,Remote,2023-10-13,24073.55,0.0,2028-10-12,End of Life,1,2026-10-12
+240,IT-LAP-0240,Laptop,Dell,Dell Laptop Pro,SN893853,15,397,Kraków Office,2024-07-24,1313.46,0.0,2028-07-23,End of Life,1,2026-07-23
+241,IT-TAB-0241,Tablet,Samsung,Samsung Tablet Gen10,SN414295,4,90,London Office,2028-01-06,828.98,416.76,2032-01-05,Good,1,2031-01-05
+242,IT-FIR-0242,Firewall,Fortinet,Fortinet Firewall Pro,SN741194,2,NULL,London Office,2026-11-11,15202.45,5647.81,2031-11-10,Good,1,2027-11-11
+243,IT-FIR-0243,Firewall,Palo Alto,Palo Alto Firewall A-Series,SN960622,1,NULL,Gdańsk Office,2029-02-27,9276.79,7706.09,2034-02-25,Excellent,1,2031-02-26
+244,IT-LAP-0244,Laptop,Lenovo,Lenovo Laptop X1,SN525756,11,289,Remote,2027-06-03,1720.26,609.16,2031-06-02,Good,1,2028-06-03
+245,IT-SER-0245,Server,HPE,HPE Server Gen10,SN980764,7,NULL,Remote,2029-03-25,6920.45,5851.1,2034-03-24,Excellent,1,2032-03-25
+246,IT-SER-0246,Server,Dell,Dell Server X1,SN789886,3,NULL,Remote,2023-03-06,4243.66,0.0,2028-03-05,End of Life,1,2024-03-06
+247,IT-DES-0247,Desktop,Dell,Dell Desktop A-Series,SN546383,14,370,London Office,2027-08-31,1370.69,729.28,2032-08-30,Good,1,2030-08-30
+248,IT-PRI-0248,Printer,Brother,Brother Printer Elite,SN545405,6,NULL,London Office,2027-04-25,519.03,286.3,2033-04-23,Good,0,2029-04-24
+249,IT-NET-0249,Network Switch,Aruba,Aruba Network Switch A-Series,SN484795,15,NULL,Warsaw HQ,2027-08-10,4412.45,2901.34,2034-08-08,Excellent,1,2030-08-09
+250,IT-PHO-0250,Phone,Lenovo,Lenovo Phone Elite,SN865654,12,306,Berlin Office,2028-05-27,631.72,294.23,2031-05-26,Good,1,2030-05-26
+251,IT-PHO-0251,Phone,Lenovo,Lenovo Phone Pro,SN817303,4,99,Berlin Office,2023-12-29,370.41,0.0,2026-12-28,End of Life,1,2026-12-28
+252,IT-FIR-0252,Firewall,Check Point,Check Point Firewall Pro,SN591644,9,NULL,Remote,2026-11-08,3897.16,1441.42,2031-11-07,Good,1,2028-11-08
+253,IT-STO-0253,Storage Array,Dell EMC,Dell EMC Storage Array Gen10,SN275645,13,NULL,Warsaw HQ,2026-12-16,36548.41,20641.63,2033-12-14,Good,1,2029-12-15
+254,IT-FIR-0254,Firewall,Check Point,Check Point Firewall X1,SN706224,1,NULL,Kraków Office,2025-12-02,16345.37,2991.43,2030-12-01,Fair,1,2028-12-02
+255,IT-FIR-0255,Firewall,Check Point,Check Point Firewall Elite,SN630155,8,NULL,Warsaw HQ,2026-03-20,13613.39,3297.05,2031-03-19,Fair,1,2028-03-20
+256,IT-FIR-0256,Firewall,Palo Alto,Palo Alto Firewall Pro,SN877444,14,NULL,Warsaw HQ,2026-02-01,13468.56,2915.11,2031-01-31,Fair,1,2029-02-01
+257,IT-SER-0257,Server,Supermicro,Supermicro Server Elite,SN608473,5,NULL,Kraków Office,2024-12-20,13379.72,0.0,2029-12-18,End of Life,1,2025-12-19
+258,IT-MON-0258,Monitor,Dell,Dell Monitor X1,SN907789,14,NULL,Remote,2024-09-24,780.41,192.12,2031-09-22,Fair,1,2026-09-23
+259,IT-SER-0259,Server,Dell,Dell Server Gen10,SN892182,1,NULL,Warsaw HQ,2026-11-14,16132.91,6020.01,2031-11-13,Good,1,2028-11-14
+260,IT-PRI-0260,Printer,Canon,Canon Printer X1,SN597643,4,NULL,Gdańsk Office,2028-12-22,285.62,236.58,2034-12-20,Excellent,1,2030-12-21
+261,IT-LAP-0261,Laptop,Apple,Apple Laptop Gen10,SN656011,7,188,Berlin Office,2028-01-13,2661.72,1350.91,2032-01-12,Good,1,2029-01-13
+262,IT-TAB-0262,Tablet,Microsoft,Microsoft Tablet Gen10,SN451238,10,271,Gdańsk Office,2027-11-04,789.21,362.71,2031-11-03,Good,1,2028-11-04
+263,IT-FIR-0263,Firewall,Check Point,Check Point Firewall Elite,SN869983,13,NULL,Berlin Office,2028-03-04,12931.01,8190.82,2033-03-02,Excellent,1,2029-03-03
+264,IT-TAB-0264,Tablet,Samsung,Samsung Tablet Pro,SN805483,6,156,Warsaw HQ,2025-01-07,1145.49,0.0,2029-01-06,End of Life,1,2026-01-06
+265,IT-PRI-0265,Printer,HP,HP Printer Gen10,SN364132,6,NULL,Kraków Office,2028-01-01,386.37,257.4,2033-12-30,Excellent,0,2030-12-31
+266,IT-DES-0266,Desktop,Dell,Dell Desktop Pro,SN842470,10,271,Warsaw HQ,2025-06-07,1726.21,147.56,2030-06-06,End of Life,1,2028-06-07
+267,IT-SER-0267,Server,HPE,HPE Server Pro,SN829445,13,NULL,Kraków Office,2029-05-07,17784.29,15455.28,2034-05-06,Excellent,1,2031-05-07
+268,IT-DES-0268,Desktop,Lenovo,Lenovo Desktop Gen10,SN369836,13,341,Kraków Office,2026-02-06,1144.13,250.77,2031-02-05,Fair,1,2028-02-06
+269,IT-LAP-0269,Laptop,HP,HP Laptop Elite,SN561976,5,121,Warsaw HQ,2023-09-04,1638.32,0.0,2027-09-03,End of Life,1,2024-09-04
+270,IT-STO-0270,Storage Array,Pure Storage,Pure Storage Storage Array A-Series,SN906048,2,NULL,Remote,2028-07-09,26598.74,20956.27,2035-07-07,Excellent,1,2031-07-08
+271,IT-DES-0271,Desktop,HP,HP Desktop Pro,SN699098,1,3,Berlin Office,2024-02-28,1458.48,0.0,2029-02-27,End of Life,1,2026-02-27
+272,IT-LAP-0272,Laptop,HP,HP Laptop X1,SN379378,15,380,Kraków Office,2023-01-04,1182.82,0.0,2027-01-03,End of Life,1,2025-01-04
+273,IT-STO-0273,Storage Array,NetApp,NetApp Storage Array X1,SN985049,8,NULL,Berlin Office,2028-07-03,48499.9,38097.57,2035-07-01,Excellent,1,2029-07-02
+274,IT-TAB-0274,Tablet,Apple,Apple Tablet A-Series,SN476353,2,42,Gdańsk Office,2028-05-29,403.64,242.46,2032-05-28,Excellent,1,2030-05-28
+275,IT-LAP-0275,Laptop,Dell,Dell Laptop X1,SN897392,2,50,Gdańsk Office,2026-10-24,1594.18,322.11,2030-10-23,Fair,1,2027-10-24
+276,IT-TAB-0276,Tablet,Apple,Apple Tablet X1,SN211954,5,135,Berlin Office,2025-02-22,1464.26,0.0,2029-02-21,End of Life,1,2027-02-21
+277,IT-DES-0277,Desktop,Lenovo,Lenovo Desktop Elite,SN126596,3,55,Berlin Office,2025-02-16,1125.58,27.14,2030-02-14,End of Life,1,2026-02-15
+278,IT-PHO-0278,Phone,Samsung,Samsung Phone X1,SN659876,11,288,Remote,2029-01-24,356.69,244.96,2032-01-23,Excellent,1,2030-01-23
+279,IT-LAP-0279,Laptop,Apple,Apple Laptop Elite,SN946309,7,170,Berlin Office,2023-06-25,1006.5,0.0,2027-06-24,End of Life,1,2025-06-24
+280,IT-TAB-0280,Tablet,Apple,Apple Tablet Pro,SN871185,15,381,Kraków Office,2025-08-12,1215.16,0.0,2029-08-11,End of Life,1,2026-08-12
+281,IT-PHO-0281,Phone,Lenovo,Lenovo Phone Pro,SN422266,1,6,Warsaw HQ,2024-06-19,341.22,0.0,2027-06-18,End of Life,1,2025-06-18
+282,IT-STO-0282,Storage Array,NetApp,NetApp Storage Array A-Series,SN937995,2,NULL,London Office,2024-03-12,68157.01,11550.68,2031-03-10,Fair,1,2025-03-11
+283,IT-PRI-0283,Printer,Canon,Canon Printer A-Series,SN672401,6,NULL,Kraków Office,2027-07-05,515.18,300.87,2033-07-03,Good,1,2028-07-05
+284,IT-LAP-0284,Laptop,Lenovo,Lenovo Laptop X1,SN276214,5,117,Berlin Office,2024-05-10,1537.46,0.0,2028-05-09,End of Life,1,2025-05-09
+285,IT-PHO-0285,Phone,Apple,Apple Phone A-Series,SN494401,3,57,Kraków Office,2023-06-16,1133.11,0.0,2026-06-15,End of Life,0,2025-06-15
+286,IT-DES-0286,Desktop,Dell,Dell Desktop A-Series,SN397514,12,324,Remote,2024-01-01,608.67,0.0,2028-12-31,End of Life,1,2025-12-31
+287,IT-SER-0287,Server,Dell,Dell Server X1,SN350875,9,NULL,Kraków Office,2026-01-14,7004.85,1447.03,2031-01-13,Fair,1,2027-01-14
+288,IT-STO-0288,Storage Array,NetApp,NetApp Storage Array Gen10,SN539128,11,NULL,Warsaw HQ,2023-12-27,61617.92,8633.74,2030-12-25,End of Life,1,2024-12-27
+289,IT-DES-0289,Desktop,Lenovo,Lenovo Desktop A-Series,SN329927,14,373,Remote,2027-01-22,1772.15,728.28,2032-01-21,Good,1,2030-01-21
+290,IT-NET-0290,Network Switch,Juniper,Juniper Network Switch X1,SN621682,13,NULL,Kraków Office,2024-04-07,1182.1,212.36,2031-04-05,Fair,1,2025-04-06
+291,IT-LAP-0291,Laptop,Apple,Apple Laptop A-Series,SN944264,5,123,Remote,2027-11-16,1441.62,674.4,2031-11-15,Good,0,2030-11-15
+292,IT-LAP-0292,Laptop,Lenovo,Lenovo Laptop Pro,SN174301,8,214,Kraków Office,2023-04-30,1200.29,0.0,2027-04-29,End of Life,1,2026-04-29
+293,IT-STO-0293,Storage Array,Pure Storage,Pure Storage Storage Array Pro,SN441974,4,NULL,Kraków Office,2026-08-27,42239.31,22020.65,2033-08-25,Good,1,2029-08-26
+294,IT-PRI-0294,Printer,HP,HP Printer A-Series,SN607938,2,NULL,Warsaw HQ,2025-06-22,318.99,78.07,2031-06-21,Fair,1,2026-06-22
+295,IT-NET-0295,Network Switch,Aruba,Aruba Network Switch X1,SN854787,6,NULL,Kraków Office,2027-05-06,4075.93,2526.92,2034-05-04,Excellent,1,2029-05-05
+296,IT-NET-0296,Network Switch,Juniper,Juniper Network Switch Elite,SN216506,1,NULL,Remote,2029-05-18,1715.92,1562.8,2036-05-17,Excellent,1,2030-05-18
+297,IT-MON-0297,Monitor,Dell,Dell Monitor A-Series,SN278190,13,NULL,London Office,2024-10-05,731.85,183.32,2031-10-03,Fair,1,2025-10-04
+298,IT-DES-0298,Desktop,HP,HP Desktop A-Series,SN596489,14,362,Remote,2028-06-27,1628.37,1134.06,2033-06-25,Excellent,1,2031-06-26
+299,IT-PRI-0299,Printer,Brother,Brother Printer A-Series,SN333210,6,NULL,London Office,2025-10-12,542.67,160.57,2031-10-11,Fair,1,2028-10-12
+300,IT-LAP-0300,Laptop,HP,HP Laptop A-Series,SN135253,8,221,Remote,2023-06-14,2762.35,0.0,2027-06-13,End of Life,1,2025-06-13
+301,IT-DES-0301,Desktop,HP,HP Desktop Pro,SN826830,9,246,Berlin Office,2023-12-07,1194.34,0.0,2028-12-06,End of Life,1,2024-12-07
+302,IT-SER-0302,Server,HPE,HPE Server Gen10,SN269662,1,NULL,Berlin Office,2024-01-07,10211.6,0.0,2029-01-06,End of Life,1,2027-01-06
+303,IT-STO-0303,Storage Array,NetApp,NetApp Storage Array X1,SN293929,13,NULL,Gdańsk Office,2028-03-15,78467.35,58259.32,2035-03-13,Excellent,1,2031-03-14
+304,IT-LAP-0304,Laptop,Dell,Dell Laptop Gen10,SN546590,9,223,Gdańsk Office,2026-09-25,1631.27,297.2,2030-09-24,Fair,1,2029-09-24
+305,IT-TAB-0305,Tablet,Microsoft,Microsoft Tablet Pro,SN639740,10,261,Berlin Office,2023-11-28,1273.93,0.0,2027-11-27,End of Life,1,2024-11-28
+306,IT-DES-0306,Desktop,HP,HP Desktop Elite,SN779658,6,150,London Office,2023-06-17,1038.71,0.0,2028-06-16,End of Life,1,2026-06-16
+307,IT-NET-0307,Network Switch,Cisco,Cisco Network Switch X1,SN873199,9,NULL,London Office,2025-09-04,7865.01,3001.32,2032-09-03,Good,1,2028-09-04
+308,IT-NET-0308,Network Switch,Aruba,Aruba Network Switch A-Series,SN813269,6,NULL,Remote,2026-08-05,6278.38,3219.05,2033-08-03,Good,1,2027-08-05
+309,IT-MON-0309,Monitor,LG,LG Monitor Pro,SN593002,9,NULL,Berlin Office,2028-08-16,471.45,378.45,2035-08-14,Excellent,1,2031-08-15
+310,IT-FIR-0310,Firewall,Fortinet,Fortinet Firewall X1,SN191549,4,NULL,Warsaw HQ,2023-09-26,13556.17,0.0,2028-09-25,End of Life,1,2024-09-26
+311,IT-FIR-0311,Firewall,Palo Alto,Palo Alto Firewall Elite,SN620438,2,NULL,Kraków Office,2026-02-04,4859.2,1059.7,2031-02-03,Fair,1,2029-02-04
+312,IT-LAP-0312,Laptop,Apple,Apple Laptop X1,SN463541,15,383,Remote,2029-01-27,1691.42,1297.53,2033-01-26,Excellent,1,2032-01-26
+313,IT-LAP-0313,Laptop,Apple,Apple Laptop A-Series,SN775987,14,363,Gdańsk Office,2023-04-01,1259.22,0.0,2027-03-31,End of Life,1,2025-03-31
+314,IT-MON-0314,Monitor,LG,LG Monitor X1,SN580255,14,NULL,Gdańsk Office,2028-12-12,556.01,472.01,2035-12-10,Excellent,1,2030-12-11
+315,IT-SER-0315,Server,HPE,HPE Server Pro,SN255544,5,NULL,Gdańsk Office,2027-03-04,8762.42,3797.85,2032-03-03,Good,1,2028-03-04
+316,IT-STO-0316,Storage Array,NetApp,NetApp Storage Array Elite,SN269087,3,NULL,Kraków Office,2026-03-14,61267.79,27960.17,2033-03-12,Good,1,2028-03-14
+317,IT-STO-0317,Storage Array,NetApp,NetApp Storage Array A-Series,SN841484,3,NULL,Warsaw HQ,2027-02-23,43657.76,25835.83,2034-02-21,Good,1,2029-02-23
+318,IT-SER-0318,Server,HPE,HPE Server Pro,SN126135,9,NULL,Remote,2024-10-28,13417.01,0.0,2029-10-26,End of Life,1,2025-10-27
+319,IT-PHO-0319,Phone,Samsung,Samsung Phone Gen10,SN596931,9,232,Gdańsk Office,2029-02-16,440.45,311.73,2032-02-15,Excellent,1,2032-02-15
+320,IT-SER-0320,Server,Supermicro,Supermicro Server Pro,SN867180,6,NULL,Remote,2027-12-16,19299.42,11399.88,2032-12-15,Good,1,2028-12-16
+321,IT-TAB-0321,Tablet,Apple,Apple Tablet Elite,SN567636,10,277,Gdańsk Office,2027-07-04,738.89,277.34,2031-07-03,Good,1,2028-07-04
+322,IT-STO-0322,Storage Array,Dell EMC,Dell EMC Storage Array Gen10,SN305222,4,NULL,Warsaw HQ,2028-11-27,27684.73,23339.69,2035-11-25,Excellent,1,2030-11-26
+323,IT-DES-0323,Desktop,Lenovo,Lenovo Desktop A-Series,SN636405,6,158,Warsaw HQ,2028-07-02,1073.31,750.43,2033-06-30,Excellent,1,2030-07-01
+324,IT-PRI-0324,Printer,HP,HP Printer Gen10,SN112782,6,NULL,Gdańsk Office,2027-10-18,472.18,298.4,2033-10-16,Excellent,1,2029-10-17
+325,IT-PHO-0325,Phone,Lenovo,Lenovo Phone X1,SN402654,12,317,Kraków Office,2027-12-25,378.84,123.51,2030-12-24,Fair,1,2029-12-24
+326,IT-PRI-0326,Printer,HP,HP Printer Gen10,SN597667,3,NULL,London Office,2023-12-19,525.98,0.0,2029-12-17,End of Life,1,2024-12-19
+327,IT-STO-0327,Storage Array,Pure Storage,Pure Storage Storage Array X1,SN283388,11,NULL,London Office,2027-08-05,20749.14,13602.67,2034-08-03,Excellent,1,2030-08-04
+328,IT-SER-0328,Server,Dell,Dell Server X1,SN144284,5,NULL,Gdańsk Office,2027-04-13,7906.13,3600.0,2032-04-12,Good,1,2029-04-12
+329,IT-PHO-0329,Phone,Lenovo,Lenovo Phone Elite,SN375436,1,1,Gdańsk Office,2025-07-08,965.87,0.0,2028-07-08,End of Life,1,2028-07-08
+330,IT-PHO-0330,Phone,Apple,Apple Phone X1,SN821255,7,172,Berlin Office,2026-03-24,888.43,0.0,2029-03-23,End of Life,1,2027-03-24
+331,IT-FIR-0331,Firewall,Fortinet,Fortinet Firewall Gen10,SN709291,10,NULL,Remote,2023-10-01,19903.66,0.0,2028-09-30,End of Life,1,2025-09-30
+332,IT-PHO-0332,Phone,Lenovo,Lenovo Phone A-Series,SN118397,9,245,Gdańsk Office,2027-03-09,1036.45,62.47,2030-03-08,End of Life,1,2028-03-09
+333,IT-SER-0333,Server,HPE,HPE Server Pro,SN385915,6,NULL,Gdańsk Office,2024-07-09,13681.92,0.0,2029-07-07,End of Life,1,2026-07-08
+334,IT-LAP-0334,Laptop,Apple,Apple Laptop Elite,SN901834,9,228,Warsaw HQ,2023-11-11,1454.16,0.0,2027-11-10,End of Life,1,2024-11-11
+335,IT-TAB-0335,Tablet,Samsung,Samsung Tablet Gen10,SN200488,5,134,London Office,2026-05-18,1359.69,126.66,2030-05-17,End of Life,1,2027-05-18
+336,IT-LAP-0336,Laptop,Lenovo,Lenovo Laptop X1,SN456844,13,343,Kraków Office,2027-03-08,1884.52,555.03,2031-03-07,Fair,1,2028-03-08
+337,IT-TAB-0337,Tablet,Apple,Apple Tablet A-Series,SN987168,10,273,London Office,2029-04-07,1314.73,1072.5,2033-04-06,Excellent,1,2032-04-07
+338,IT-DES-0338,Desktop,HP,HP Desktop Elite,SN118223,2,50,Remote,2023-11-09,1152.59,0.0,2028-11-08,End of Life,1,2026-11-08
+339,IT-MON-0339,Monitor,Dell,Dell Monitor Elite,SN844378,13,NULL,Gdańsk Office,2028-11-13,690.22,578.11,2035-11-11,Excellent,0,2029-11-12
+340,IT-NET-0340,Network Switch,Cisco,Cisco Network Switch Gen10,SN231432,12,NULL,Kraków Office,2024-08-07,6969.07,1584.75,2031-08-05,Fair,1,2025-08-06
+341,IT-PRI-0341,Printer,Brother,Brother Printer X1,SN894122,2,NULL,Remote,2024-04-03,493.36,20.28,2030-04-01,End of Life,0,2025-04-02
+342,IT-LAP-0342,Laptop,Dell,Dell Laptop Gen10,SN800015,1,3,Warsaw HQ,2025-11-02,1791.26,0.0,2029-11-01,End of Life,1,2026-11-02
+343,IT-STO-0343,Storage Array,NetApp,NetApp Storage Array Gen10,SN130680,3,NULL,Warsaw HQ,2025-03-30,53194.2,17009.65,2032-03-29,Fair,1,2028-03-30
+344,IT-FIR-0344,Firewall,Check Point,Check Point Firewall A-Series,SN353569,14,NULL,London Office,2024-10-20,8913.22,0.0,2029-10-18,End of Life,1,2025-10-19
+345,IT-STO-0345,Storage Array,NetApp,NetApp Storage Array A-Series,SN104539,5,NULL,Berlin Office,2025-02-24,49374.52,15111.89,2032-02-22,Fair,1,2026-02-23
+346,IT-TAB-0346,Tablet,Microsoft,Microsoft Tablet Pro,SN289633,8,219,Gdańsk Office,2025-01-29,922.19,0.0,2029-01-28,End of Life,1,2027-01-28
+347,IT-NET-0347,Network Switch,Aruba,Aruba Network Switch Pro,SN588533,13,NULL,Warsaw HQ,2024-04-08,2438.39,439.01,2031-04-06,Fair,1,2026-04-07
+348,IT-MON-0348,Monitor,Samsung,Samsung Monitor X1,SN221343,2,NULL,Remote,2023-06-16,372.96,23.94,2030-06-14,End of Life,1,2026-06-15
+349,IT-FIR-0349,Firewall,Check Point,Check Point Firewall X1,SN404704,4,NULL,Remote,2027-12-24,19595.04,11660.39,2032-12-23,Good,1,2028-12-24
+350,IT-PHO-0350,Phone,Lenovo,Lenovo Phone Pro,SN515623,11,294,Remote,2023-02-22,630.7,0.0,2026-02-21,End of Life,1,2026-02-21
+351,IT-DES-0351,Desktop,Dell,Dell Desktop Pro,SN877447,12,322,Kraków Office,2027-06-29,772.04,384.12,2032-06-28,Good,1,2028-06-29
+352,IT-MON-0352,Monitor,Dell,Dell Monitor X1,SN860427,2,NULL,Remote,2027-07-14,556.98,360.35,2034-07-12,Excellent,1,2030-07-13
+353,IT-STO-0353,Storage Array,Dell EMC,Dell EMC Storage Array A-Series,SN524089,6,NULL,Remote,2027-06-28,32743.23,20978.73,2034-06-26,Excellent,1,2028-06-28
+354,IT-PHO-0354,Phone,Apple,Apple Phone Elite,SN131167,8,205,Warsaw HQ,2028-06-28,409.97,202.93,2031-06-27,Good,1,2029-06-27
+355,IT-PHO-0355,Phone,Lenovo,Lenovo Phone Gen10,SN260155,7,186,Gdańsk Office,2025-01-04,324.07,0.0,2028-01-03,End of Life,1,2026-01-03
+356,IT-DES-0356,Desktop,Lenovo,Lenovo Desktop Elite,SN407823,13,342,Berlin Office,2028-07-10,1501.93,1056.7,2033-07-08,Excellent,1,2031-07-09
+357,IT-FIR-0357,Firewall,Check Point,Check Point Firewall Pro,SN551313,9,NULL,Warsaw HQ,2029-01-24,8841.47,7179.76,2034-01-22,Excellent,1,2031-01-23
+358,IT-PRI-0358,Printer,Canon,Canon Printer Gen10,SN840356,3,NULL,Kraków Office,2023-05-15,356.85,0.0,2029-05-13,End of Life,1,2024-05-15
+359,IT-FIR-0359,Firewall,Check Point,Check Point Firewall X1,SN792142,10,NULL,London Office,2024-03-25,9614.37,0.0,2029-03-23,End of Life,1,2027-03-24
+360,IT-PHO-0360,Phone,Samsung,Samsung Phone X1,SN376185,9,223,Remote,2024-10-03,806.03,0.0,2027-10-02,End of Life,1,2026-10-02
+361,IT-STO-0361,Storage Array,Dell EMC,Dell EMC Storage Array Pro,SN719145,6,NULL,Warsaw HQ,2026-03-11,37929.65,17265.04,2033-03-09,Good,1,2028-03-11
+362,IT-MON-0362,Monitor,Samsung,Samsung Monitor X1,SN461908,7,NULL,Gdańsk Office,2026-10-29,550.38,300.5,2033-10-27,Good,1,2027-10-29
+363,IT-NET-0363,Network Switch,Cisco,Cisco Network Switch Pro,SN419723,10,NULL,Warsaw HQ,2026-07-02,2489.28,1243.18,2033-06-30,Good,1,2027-07-02
+364,IT-TAB-0364,Tablet,Samsung,Samsung Tablet X1,SN379570,10,267,Warsaw HQ,2027-09-27,441.12,191.25,2031-09-26,Good,1,2030-09-26
+365,IT-LAP-0365,Laptop,Apple,Apple Laptop Pro,SN947591,6,157,Remote,2027-05-18,1617.7,555.11,2031-05-17,Fair,1,2030-05-17
+366,IT-NET-0366,Network Switch,Juniper,Juniper Network Switch Gen10,SN480983,3,NULL,Remote,2026-10-22,4376.47,2377.51,2033-10-20,Good,1,2029-10-21
+367,IT-DES-0367,Desktop,Lenovo,Lenovo Desktop A-Series,SN521556,1,10,Kraków Office,2025-12-22,856.9,166.22,2030-12-21,Fair,1,2026-12-22
+368,IT-STO-0368,Storage Array,NetApp,NetApp Storage Array A-Series,SN598355,2,NULL,Remote,2026-01-24,53471.2,23376.65,2033-01-23,Good,1,2027-01-24
+369,IT-FIR-0369,Firewall,Check Point,Check Point Firewall Gen10,SN309795,11,NULL,Remote,2027-11-09,16670.15,9508.84,2032-11-08,Good,1,2030-11-08
+370,IT-TAB-0370,Tablet,Samsung,Samsung Tablet Pro,SN758342,3,82,Berlin Office,2029-02-21,1138.72,893.04,2033-02-20,Excellent,1,2030-02-20
+371,IT-STO-0371,Storage Array,Pure Storage,Pure Storage Storage Array A-Series,SN948228,5,NULL,London Office,2028-03-30,28841.93,21583.47,2035-03-28,Excellent,1,2030-03-29
+372,IT-STO-0372,Storage Array,Dell EMC,Dell EMC Storage Array X1,SN254920,4,NULL,Kraków Office,2028-11-10,55739.3,46620.31,2035-11-08,Excellent,1,2031-11-09
+373,IT-FIR-0373,Firewall,Fortinet,Fortinet Firewall X1,SN379901,11,NULL,Gdańsk Office,2023-09-21,9974.42,0.0,2028-09-20,End of Life,1,2025-09-20
+374,IT-STO-0374,Storage Array,NetApp,NetApp Storage Array Pro,SN357516,3,NULL,Gdańsk Office,2024-04-11,41381.29,7498.84,2031-04-09,Fair,1,2027-04-10
+375,IT-PRI-0375,Printer,Canon,Canon Printer Gen10,SN243057,4,NULL,Warsaw HQ,2023-06-01,441.11,0.0,2029-05-30,End of Life,1,2025-05-31
+376,IT-TAB-0376,Tablet,Apple,Apple Tablet Pro,SN158014,12,319,Warsaw HQ,2023-06-22,1108.72,0.0,2027-06-21,End of Life,1,2025-06-21
+377,IT-DES-0377,Desktop,HP,HP Desktop Elite,SN347507,7,197,Warsaw HQ,2024-01-05,1676.13,0.0,2029-01-04,End of Life,1,2027-01-04
+378,IT-DES-0378,Desktop,Lenovo,Lenovo Desktop Pro,SN349641,5,128,London Office,2028-11-22,1397.06,1086.26,2033-11-20,Excellent,1,2030-11-21
+379,IT-MON-0379,Monitor,Samsung,Samsung Monitor Elite,SN251286,15,NULL,Warsaw HQ,2025-08-24,642.34,242.35,2032-08-23,Good,1,2027-08-24
+380,IT-PHO-0380,Phone,Samsung,Samsung Phone Gen10,SN833602,8,215,Warsaw HQ,2023-08-18,528.88,0.0,2026-08-17,End of Life,1,2025-08-17
+381,IT-PHO-0381,Phone,Lenovo,Lenovo Phone Gen10,SN598306,15,383,Berlin Office,2026-02-11,521.71,0.0,2029-02-11,End of Life,1,2028-02-11
+382,IT-LAP-0382,Laptop,Dell,Dell Laptop Elite,SN365271,12,325,London Office,2023-08-12,2498.8,0.0,2027-08-11,End of Life,1,2026-08-11
+383,IT-MON-0383,Monitor,Samsung,Samsung Monitor X1,SN108248,14,NULL,Remote,2025-08-26,273.23,103.3,2032-08-25,Good,1,2027-08-26
+384,IT-FIR-0384,Firewall,Palo Alto,Palo Alto Firewall Elite,SN560163,5,NULL,Berlin Office,2025-08-22,18917.48,2404.85,2030-08-21,End of Life,1,2028-08-22
+385,IT-PRI-0385,Printer,HP,HP Printer X1,SN872739,14,NULL,Remote,2023-11-25,273.32,0.0,2029-11-23,End of Life,1,2025-11-24
+386,IT-PRI-0386,Printer,HP,HP Printer Gen10,SN541314,9,NULL,London Office,2025-12-04,520.98,166.76,2031-12-03,Fair,1,2028-12-04
+387,IT-MON-0387,Monitor,LG,LG Monitor Elite,SN760766,11,NULL,Remote,2023-08-02,617.13,50.96,2030-07-31,End of Life,1,2024-08-02
+388,IT-LAP-0388,Laptop,HP,HP Laptop Pro,SN216211,6,157,Kraków Office,2026-06-05,1280.14,135.03,2030-06-04,End of Life,1,2029-06-04
+389,IT-SER-0389,Server,Supermicro,Supermicro Server Elite,SN373342,8,NULL,Kraków Office,2026-08-01,18400.82,5807.6,2031-07-31,Fair,1,2028-08-01
+390,IT-FIR-0390,Firewall,Palo Alto,Palo Alto Firewall X1,SN975224,3,NULL,London Office,2027-02-14,4434.78,1878.4,2032-02-13,Good,1,2028-02-14
+391,IT-TAB-0391,Tablet,Microsoft,Microsoft Tablet X1,SN307897,15,381,Gdańsk Office,2025-07-25,1073.2,0.0,2029-07-24,End of Life,1,2026-07-25
+392,IT-LAP-0392,Laptop,HP,HP Laptop Gen10,SN278386,3,56,London Office,2025-12-01,2074.21,0.0,2029-11-30,End of Life,1,2028-12-01
+393,IT-TAB-0393,Tablet,Samsung,Samsung Tablet X1,SN224269,14,377,Kraków Office,2028-02-02,1250.7,651.91,2032-02-01,Good,1,2029-02-02
+394,IT-FIR-0394,Firewall,Fortinet,Fortinet Firewall Elite,SN729232,3,NULL,Kraków Office,2027-04-14,15689.53,7152.71,2032-04-13,Good,1,2029-04-13
+395,IT-NET-0395,Network Switch,Juniper,Juniper Network Switch Gen10,SN346924,1,NULL,London Office,2024-08-21,2098.66,488.73,2031-08-19,Fair,1,2025-08-20
+396,IT-MON-0396,Monitor,Samsung,Samsung Monitor X1,SN239675,2,NULL,Gdańsk Office,2028-02-20,610.56,447.82,2035-02-18,Excellent,1,2030-02-19
+397,IT-NET-0397,Network Switch,Aruba,Aruba Network Switch Gen10,SN176604,12,NULL,Warsaw HQ,2027-09-30,3561.17,2412.68,2034-09-28,Excellent,1,2028-09-30
+398,IT-MON-0398,Monitor,Dell,Dell Monitor A-Series,SN844033,10,NULL,Berlin Office,2026-12-22,482.56,273.67,2033-12-20,Good,1,2027-12-22
+399,IT-FIR-0399,Firewall,Check Point,Check Point Firewall Gen10,SN238661,7,NULL,London Office,2026-05-24,13534.18,3759.91,2031-05-23,Fair,0,2027-05-24
+400,IT-FIR-0400,Firewall,Palo Alto,Palo Alto Firewall Elite,SN194002,15,NULL,Gdańsk Office,2026-10-21,11563.69,4162.93,2031-10-20,Good,1,2028-10-21
+401,IT-SER-0401,Server,HPE,HPE Server Gen10,SN884149,3,NULL,Gdańsk Office,2023-06-30,6453.68,0.0,2028-06-29,End of Life,1,2025-06-29
+402,IT-FIR-0402,Firewall,Check Point,Check Point Firewall X1,SN272998,9,NULL,Gdańsk Office,2025-12-16,17103.02,3261.29,2030-12-15,Fair,1,2027-12-16
+403,IT-SER-0403,Server,Supermicro,Supermicro Server Elite,SN157217,1,NULL,Kraków Office,2027-12-08,21913.71,12848.04,2032-12-07,Good,1,2029-12-07
+404,IT-FIR-0404,Firewall,Palo Alto,Palo Alto Firewall X1,SN142773,2,NULL,Remote,2027-11-23,15001.37,8672.02,2032-11-22,Good,1,2030-11-22
+405,IT-TAB-0405,Tablet,Samsung,Samsung Tablet Pro,SN466586,14,360,Warsaw HQ,2024-04-06,903.54,0.0,2028-04-05,End of Life,1,2026-04-05
+406,IT-SER-0406,Server,Dell,Dell Server A-Series,SN322713,10,NULL,London Office,2026-01-22,19748.67,4166.16,2031-01-21,Fair,1,2027-01-22
+407,IT-TAB-0407,Tablet,Microsoft,Microsoft Tablet X1,SN809790,4,108,Warsaw HQ,2023-11-11,598.63,0.0,2027-11-10,End of Life,1,2024-11-11
+408,IT-FIR-0408,Firewall,Check Point,Check Point Firewall A-Series,SN211222,7,NULL,Gdańsk Office,2024-05-15,19682.69,0.0,2029-05-13,End of Life,1,2025-05-14
+409,IT-PHO-0409,Phone,Lenovo,Lenovo Phone A-Series,SN789969,11,287,Warsaw HQ,2028-02-03,893.59,323.98,2031-02-02,Good,1,2029-02-03
+410,IT-STO-0410,Storage Array,Pure Storage,Pure Storage Storage Array Pro,SN940494,3,NULL,Berlin Office,2029-05-20,36119.51,32924.59,2036-05-19,Excellent,1,2030-05-20
+411,IT-DES-0411,Desktop,Lenovo,Lenovo Desktop Gen10,SN286657,2,36,Kraków Office,2027-04-12,1742.28,792.38,2032-04-11,Good,1,2029-04-11
+412,IT-DES-0412,Desktop,Dell,Dell Desktop X1,SN398776,7,191,Berlin Office,2024-10-30,1622.81,0.0,2029-10-28,End of Life,1,2027-10-29
+413,IT-SER-0413,Server,Dell,Dell Server A-Series,SN237664,12,NULL,Gdańsk Office,2027-11-06,10269.48,5840.94,2032-11-05,Good,1,2029-11-05
+414,IT-TAB-0414,Tablet,Apple,Apple Tablet A-Series,SN729502,8,206,Remote,2027-05-09,938.59,316.29,2031-05-08,Fair,1,2029-05-08
+415,IT-MON-0415,Monitor,Samsung,Samsung Monitor A-Series,SN458345,2,NULL,Remote,2027-10-11,311.81,212.59,2034-10-09,Excellent,1,2030-10-10
+416,IT-SER-0416,Server,HPE,HPE Server X1,SN558600,2,NULL,Warsaw HQ,2028-11-20,15072.85,11703.14,2033-11-18,Excellent,1,2030-11-19
+417,IT-FIR-0417,Firewall,Palo Alto,Palo Alto Firewall A-Series,SN548509,14,NULL,Gdańsk Office,2026-05-15,19731.17,5384.18,2031-05-14,Fair,1,2029-05-14
+418,IT-DES-0418,Desktop,Dell,Dell Desktop Pro,SN587227,7,180,Berlin Office,2028-09-23,1216.1,905.58,2033-09-21,Excellent,1,2030-09-22
+419,IT-MON-0419,Monitor,LG,LG Monitor X1,SN288274,1,NULL,Kraków Office,2028-08-25,551.34,444.52,2035-08-23,Excellent,1,2029-08-24
+420,IT-DES-0420,Desktop,HP,HP Desktop X1,SN894143,6,157,Berlin Office,2026-05-04,1652.11,440.86,2031-05-03,Fair,1,2028-05-04
+421,IT-MON-0421,Monitor,Dell,Dell Monitor Gen10,SN806120,12,NULL,Warsaw HQ,2023-11-17,326.64,40.65,2030-11-15,End of Life,1,2024-11-17
+422,IT-LAP-0422,Laptop,HP,HP Laptop X1,SN825411,11,294,Remote,2024-12-05,1121.69,0.0,2028-12-04,End of Life,1,2027-12-04
+423,IT-STO-0423,Storage Array,Dell EMC,Dell EMC Storage Array X1,SN943726,12,NULL,Gdańsk Office,2027-01-17,46636.96,26923.49,2034-01-15,Good,1,2028-01-17
+424,IT-LAP-0424,Laptop,Lenovo,Lenovo Laptop Pro,SN319393,12,310,Remote,2023-03-07,1112.63,0.0,2027-03-06,End of Life,1,2026-03-06
+425,IT-NET-0425,Network Switch,Juniper,Juniper Network Switch Gen10,SN907111,4,NULL,Remote,2029-01-16,6863.05,5920.22,2036-01-14,Excellent,1,2031-01-15
+426,IT-LAP-0426,Laptop,Dell,Dell Laptop X1,SN608608,12,326,Remote,2024-09-17,1215.6,0.0,2028-09-16,End of Life,0,2026-09-16
+427,IT-STO-0427,Storage Array,NetApp,NetApp Storage Array Pro,SN450067,14,NULL,Warsaw HQ,2029-05-21,28087.0,25613.59,2036-05-20,Excellent,1,2032-05-21
+428,IT-PRI-0428,Printer,Canon,Canon Printer X1,SN519095,5,NULL,Remote,2029-03-20,531.88,462.18,2035-03-19,Excellent,1,2032-03-20
+429,IT-STO-0429,Storage Array,Dell EMC,Dell EMC Storage Array Pro,SN653971,4,NULL,Warsaw HQ,2028-06-22,73829.75,57676.78,2035-06-20,Excellent,1,2030-06-21
+430,IT-TAB-0430,Tablet,Apple,Apple Tablet Pro,SN618823,15,394,London Office,2027-09-05,694.63,290.7,2031-09-04,Good,1,2029-09-04
+431,IT-PHO-0431,Phone,Lenovo,Lenovo Phone Elite,SN592034,5,136,Gdańsk Office,2024-10-23,692.61,0.0,2027-10-22,End of Life,1,2027-10-22
+432,IT-NET-0432,Network Switch,Aruba,Aruba Network Switch X1,SN237529,15,NULL,Gdańsk Office,2026-10-21,7345.31,3987.45,2033-10-19,Good,1,2028-10-21
+433,IT-PRI-0433,Printer,Brother,Brother Printer Elite,SN752048,13,NULL,Kraków Office,2027-01-15,443.63,224.45,2033-01-14,Good,1,2030-01-14
+434,IT-DES-0434,Desktop,Lenovo,Lenovo Desktop A-Series,SN616094,4,89,Warsaw HQ,2024-12-11,1179.47,0.0,2029-12-09,End of Life,1,2026-12-10
+435,IT-FIR-0435,Firewall,Palo Alto,Palo Alto Firewall Gen10,SN474387,1,NULL,Berlin Office,2023-07-12,6560.36,0.0,2028-07-11,End of Life,1,2026-07-11
+436,IT-LAP-0436,Laptop,Dell,Dell Laptop Pro,SN689280,10,258,Kraków Office,2024-04-12,1541.7,0.0,2028-04-11,End of Life,1,2026-04-11
+437,IT-MON-0437,Monitor,Dell,Dell Monitor A-Series,SN733643,5,NULL,Berlin Office,2029-03-31,662.06,590.54,2036-03-30,Excellent,1,2030-03-31
+438,IT-PHO-0438,Phone,Samsung,Samsung Phone A-Series,SN739270,2,49,Warsaw HQ,2024-03-31,1166.38,0.0,2027-03-30,End of Life,1,2025-03-30
+439,IT-TAB-0439,Tablet,Apple,Apple Tablet Gen10,SN264660,14,362,Berlin Office,2024-04-29,583.75,0.0,2028-04-28,End of Life,1,2026-04-28
+440,IT-TAB-0440,Tablet,Samsung,Samsung Tablet Gen10,SN450861,3,74,Kraków Office,2024-02-11,1205.81,0.0,2028-02-10,End of Life,1,2025-02-11
+441,IT-PHO-0441,Phone,Samsung,Samsung Phone X1,SN457900,4,110,Gdańsk Office,2023-01-27,992.3,0.0,2026-01-26,End of Life,1,2024-01-27
+442,IT-FIR-0442,Firewall,Fortinet,Fortinet Firewall Elite,SN258975,6,NULL,London Office,2027-08-27,15158.4,8031.88,2032-08-26,Good,1,2028-08-27
+443,IT-SER-0443,Server,HPE,HPE Server A-Series,SN933206,15,NULL,Berlin Office,2027-08-04,12681.6,6559.69,2032-08-03,Good,1,2028-08-04
+444,IT-PHO-0444,Phone,Apple,Apple Phone Gen10,SN430096,2,26,Remote,2028-10-21,993.14,595.88,2031-10-20,Excellent,1,2029-10-20
+445,IT-PRI-0445,Printer,HP,HP Printer Elite,SN702466,11,NULL,Warsaw HQ,2023-06-01,326.97,0.0,2029-05-30,End of Life,1,2026-05-31
+446,IT-TAB-0446,Tablet,Samsung,Samsung Tablet Gen10,SN460875,14,365,Warsaw HQ,2029-03-17,861.24,690.17,2033-03-16,Excellent,1,2032-03-17
+447,IT-STO-0447,Storage Array,NetApp,NetApp Storage Array A-Series,SN754688,11,NULL,London Office,2028-01-02,60519.18,43227.99,2034-12-31,Excellent,1,2031-01-01
+448,IT-MON-0448,Monitor,Samsung,Samsung Monitor Pro,SN138766,15,NULL,London Office,2025-03-19,442.7,139.65,2032-03-18,Fair,1,2028-03-19
+449,IT-SER-0449,Server,Supermicro,Supermicro Server A-Series,SN678589,4,NULL,Gdańsk Office,2026-03-08,24830.4,5850.45,2031-03-07,Fair,1,2029-03-07
+450,IT-SER-0450,Server,Dell,Dell Server Elite,SN972655,10,NULL,Gdańsk Office,2029-01-21,4585.72,3716.32,2034-01-19,Excellent,1,2032-01-20
+451,IT-DES-0451,Desktop,Lenovo,Lenovo Desktop A-Series,SN471692,5,133,Warsaw HQ,2027-03-08,671.93,292.7,2032-03-07,Good,0,2030-03-07
+452,IT-DES-0452,Desktop,HP,HP Desktop Elite,SN944510,8,208,Berlin Office,2023-01-22,957.55,0.0,2028-01-21,End of Life,1,2026-01-21
+453,IT-TAB-0453,Tablet,Microsoft,Microsoft Tablet A-Series,SN805097,5,134,Kraków Office,2026-05-10,657.22,57.62,2030-05-09,End of Life,1,2029-05-09
+454,IT-NET-0454,Network Switch,Cisco,Cisco Network Switch X1,SN202747,14,NULL,Kraków Office,2025-02-28,3160.5,972.27,2032-02-26,Fair,1,2027-02-27
+455,IT-DES-0455,Desktop,Dell,Dell Desktop X1,SN181865,8,204,Gdańsk Office,2024-06-17,674.63,0.0,2029-06-15,End of Life,1,2026-06-16
+456,IT-STO-0456,Storage Array,Dell EMC,Dell EMC Storage Array A-Series,SN623058,14,NULL,Berlin Office,2027-06-06,48731.42,30802.83,2034-06-04,Excellent,1,2029-06-05
+457,IT-PHO-0457,Phone,Lenovo,Lenovo Phone Elite,SN608312,3,70,Berlin Office,2024-10-30,1175.95,0.0,2027-10-29,End of Life,1,2027-10-29
+458,IT-TAB-0458,Tablet,Microsoft,Microsoft Tablet Pro,SN882758,8,213,Kraków Office,2025-05-20,529.86,0.0,2029-05-19,End of Life,1,2027-05-20
+459,IT-DES-0459,Desktop,Lenovo,Lenovo Desktop A-Series,SN403657,2,35,Warsaw HQ,2024-03-28,1622.78,0.0,2029-03-26,End of Life,1,2025-03-27
+460,IT-MON-0460,Monitor,LG,LG Monitor Pro,SN929637,5,NULL,Kraków Office,2026-05-27,794.61,385.64,2033-05-25,Good,1,2029-05-26
+461,IT-PRI-0461,Printer,HP,HP Printer Elite,SN291970,15,NULL,Berlin Office,2026-06-03,571.57,230.19,2032-06-02,Good,1,2027-06-03
+462,IT-TAB-0462,Tablet,Samsung,Samsung Tablet A-Series,SN424745,7,182,London Office,2023-07-03,474.32,0.0,2027-07-02,End of Life,1,2025-07-02
+463,IT-PRI-0463,Printer,Canon,Canon Printer A-Series,SN767376,13,NULL,Remote,2024-06-28,525.51,42.23,2030-06-26,End of Life,1,2027-06-27
+464,IT-PHO-0464,Phone,Apple,Apple Phone A-Series,SN796781,2,49,London Office,2026-08-25,1079.71,0.0,2029-08-24,End of Life,1,2027-08-25
+465,IT-PRI-0465,Printer,Canon,Canon Printer Pro,SN273659,12,NULL,Berlin Office,2027-12-20,393.45,259.96,2033-12-18,Excellent,0,2030-12-19
+466,IT-FIR-0466,Firewall,Check Point,Check Point Firewall A-Series,SN668154,2,NULL,London Office,2029-04-10,13967.71,11931.87,2034-04-09,Excellent,1,2032-04-10
+467,IT-TAB-0467,Tablet,Apple,Apple Tablet Pro,SN790229,15,379,London Office,2028-08-21,1225.61,806.72,2032-08-20,Excellent,1,2029-08-20
+468,IT-FIR-0468,Firewall,Palo Alto,Palo Alto Firewall A-Series,SN736333,2,NULL,Gdańsk Office,2027-12-25,7169.87,4270.49,2032-12-24,Good,1,2028-12-25
+469,IT-PHO-0469,Phone,Apple,Apple Phone A-Series,SN432799,7,167,Remote,2025-01-10,605.96,0.0,2028-01-09,End of Life,1,2026-01-09
+470,IT-DES-0470,Desktop,Lenovo,Lenovo Desktop Pro,SN261719,3,62,Gdańsk Office,2024-08-13,801.79,0.0,2029-08-11,End of Life,1,2027-08-12
+471,IT-SER-0471,Server,Dell,Dell Server Pro,SN412501,3,NULL,Remote,2026-08-25,16903.98,5557.47,2031-08-24,Fair,1,2027-08-25
+472,IT-PRI-0472,Printer,Canon,Canon Printer Elite,SN888669,1,NULL,London Office,2024-05-11,266.07,15.55,2030-05-09,End of Life,1,2026-05-10
+473,IT-TAB-0473,Tablet,Microsoft,Microsoft Tablet Gen10,SN587402,5,114,London Office,2024-04-17,823.55,0.0,2028-04-16,End of Life,1,2026-04-16
+474,IT-LAP-0474,Laptop,HP,HP Laptop A-Series,SN807890,5,130,Warsaw HQ,2023-03-18,2103.73,0.0,2027-03-17,End of Life,1,2026-03-17
+475,IT-SER-0475,Server,HPE,HPE Server A-Series,SN313340,2,NULL,Kraków Office,2028-01-01,15933.16,9551.17,2032-12-31,Good,1,2029-01-01
+476,IT-NET-0476,Network Switch,Aruba,Aruba Network Switch Pro,SN952118,8,NULL,Remote,2029-03-23,7658.81,6807.5,2036-03-22,Excellent,1,2032-03-23
+477,IT-FIR-0477,Firewall,Check Point,Check Point Firewall Gen10,SN726909,1,NULL,Gdańsk Office,2023-01-03,19525.39,0.0,2028-01-02,End of Life,1,2025-01-03
+478,IT-MON-0478,Monitor,Samsung,Samsung Monitor Elite,SN875089,5,NULL,London Office,2028-09-22,327.65,267.76,2035-09-20,Excellent,1,2030-09-21
+479,IT-DES-0479,Desktop,HP,HP Desktop Gen10,SN552945,12,321,Kraków Office,2024-07-27,1438.12,0.0,2029-07-25,End of Life,1,2026-07-26
+480,IT-MON-0480,Monitor,Samsung,Samsung Monitor Gen10,SN458224,5,NULL,Kraków Office,2028-01-29,356.82,258.64,2035-01-27,Excellent,1,2031-01-28
+481,IT-MON-0481,Monitor,Dell,Dell Monitor A-Series,SN599676,11,NULL,Warsaw HQ,2024-07-02,748.41,159.64,2031-06-30,Fair,1,2027-07-01
+482,IT-SER-0482,Server,HPE,HPE Server A-Series,SN185090,13,NULL,Berlin Office,2028-06-26,15671.6,10905.72,2033-06-24,Excellent,1,2031-06-25
+483,IT-LAP-0483,Laptop,HP,HP Laptop A-Series,SN475354,14,368,Remote,2026-12-16,2177.27,518.97,2030-12-15,Fair,1,2029-12-15
+484,IT-LAP-0484,Laptop,Dell,Dell Laptop Elite,SN879243,8,198,Warsaw HQ,2025-03-01,1779.12,0.0,2029-02-28,End of Life,1,2028-03-01
+485,IT-MON-0485,Monitor,Dell,Dell Monitor Elite,SN345637,13,NULL,Remote,2026-05-26,253.98,123.16,2033-05-24,Good,1,2027-05-26
+486,IT-FIR-0486,Firewall,Fortinet,Fortinet Firewall X1,SN216335,1,NULL,Gdańsk Office,2025-05-06,18376.63,1248.6,2030-05-05,End of Life,1,2027-05-06
+487,IT-SER-0487,Server,Supermicro,Supermicro Server A-Series,SN692592,11,NULL,Kraków Office,2029-05-06,8069.18,7008.03,2034-05-05,Excellent,1,2030-05-06
+488,IT-DES-0488,Desktop,Dell,Dell Desktop A-Series,SN864305,14,363,Gdańsk Office,2029-05-23,911.55,800.17,2034-05-22,Excellent,1,2032-05-23
+489,IT-LAP-0489,Laptop,Apple,Apple Laptop Pro,SN995336,1,14,Gdańsk Office,2028-02-03,2193.29,1144.72,2032-02-02,Good,1,2030-02-02
+490,IT-FIR-0490,Firewall,Palo Alto,Palo Alto Firewall A-Series,SN895891,8,NULL,Warsaw HQ,2028-03-27,14562.95,9408.06,2033-03-25,Excellent,1,2029-03-26
+491,IT-LAP-0491,Laptop,Apple,Apple Laptop Pro,SN510893,8,208,Kraków Office,2028-12-21,2644.94,1961.97,2032-12-20,Excellent,1,2031-12-20
+492,IT-LAP-0492,Laptop,Lenovo,Lenovo Laptop Elite,SN306440,2,53,Kraków Office,2027-10-02,2758.38,1205.37,2031-10-01,Good,1,2028-10-02
+493,IT-DES-0493,Desktop,Dell,Dell Desktop Gen10,SN981336,10,276,Gdańsk Office,2023-04-09,1175.96,0.0,2028-04-08,End of Life,1,2025-04-08
+494,IT-NET-0494,Network Switch,Juniper,Juniper Network Switch Elite,SN176452,9,NULL,London Office,2026-09-28,6794.13,3627.08,2033-09-26,Good,1,2027-09-28
+495,IT-PHO-0495,Phone,Lenovo,Lenovo Phone X1,SN428497,15,380,Berlin Office,2023-09-06,412.34,0.0,2026-09-05,End of Life,1,2024-09-06
+496,IT-LAP-0496,Laptop,HP,HP Laptop Pro,SN686424,2,27,Warsaw HQ,2027-11-04,1004.1,461.47,2031-11-03,Good,1,2029-11-03
+497,IT-PRI-0497,Printer,HP,HP Printer A-Series,SN925727,4,NULL,Berlin Office,2027-08-11,427.79,257.06,2033-08-09,Excellent,1,2029-08-10
+498,IT-PRI-0498,Printer,Canon,Canon Printer Pro,SN576133,6,NULL,London Office,2024-02-19,507.82,10.9,2030-02-17,End of Life,1,2025-02-19
+499,IT-DES-0499,Desktop,Dell,Dell Desktop Elite,SN701056,10,276,Kraków Office,2023-10-04,614.75,0.0,2028-10-03,End of Life,1,2025-10-03
+500,IT-MON-0500,Monitor,LG,LG Monitor Elite,SN935741,3,NULL,Warsaw HQ,2027-12-27,488.84,348.02,2034-12-25,Excellent,1,2029-12-26

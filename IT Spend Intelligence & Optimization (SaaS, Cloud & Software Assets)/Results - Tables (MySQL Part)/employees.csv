@@ -1,0 +1,402 @@
+employee_id,first_name,last_name,email,cost_center_id,location,hire_date,is_active,job_title
+1,Ola,Wiśniewski,ola.wiśniewski1@company.com,1,Remote,2018-01-19,1,Consultant
+2,Damian,Kwiatkowski,damian.kwiatkowski2@company.com,1,Gdańsk Office,2019-08-24,1,Engineer
+3,Tomasz,Wojciechowski,tomasz.wojciechowski3@company.com,1,Gdańsk Office,2016-03-30,1,Consultant
+4,Monika,Pawłowski,monika.pawłowski4@company.com,1,Warsaw HQ,2018-06-17,1,Senior Engineer
+5,Adam,Kamiński,adam.kamiński5@company.com,1,Kraków Office,2018-05-19,1,Director
+6,Oskar,Woźniak,oskar.woźniak6@company.com,1,Warsaw HQ,2016-05-06,1,Lead
+7,Iga,Lewandowski,iga.lewandowski7@company.com,1,London Office,2019-04-07,1,Specialist
+8,Cezary,Jankowski,cezary.jankowski8@company.com,1,Warsaw HQ,2023-04-28,1,Consultant
+9,Cezary,Woźniak,cezary.woźniak9@company.com,1,Remote,2021-06-16,1,Lead
+10,Oskar,Dąbrowski,oskar.dąbrowski10@company.com,1,Warsaw HQ,2019-07-18,1,Manager
+11,Magdalena,Kwiatkowski,magdalena.kwiatkowski11@company.com,1,Berlin Office,2024-04-30,1,Engineer
+12,Aleksandra,Dąbrowski,aleksandra.dąbrowski12@company.com,1,Remote,2017-09-23,1,Engineer
+13,Zofia,Szymański,zofia.szymański13@company.com,1,Gdańsk Office,2023-05-13,1,Manager
+14,Cezary,Mazur,cezary.mazur14@company.com,1,Warsaw HQ,2022-02-06,1,Analyst
+15,Maria,Kozłowski,maria.kozłowski15@company.com,1,Berlin Office,2018-12-09,1,Manager
+16,Marta,Dąbrowski,marta.dąbrowski16@company.com,1,Gdańsk Office,2016-08-22,1,Manager
+17,Daniel,Adamczyk,daniel.adamczyk17@company.com,1,Warsaw HQ,2022-05-08,1,Consultant
+18,Joanna,Adamczyk,joanna.adamczyk18@company.com,1,London Office,2021-04-28,1,Specialist
+19,Robert,Woźniak,robert.woźniak19@company.com,1,Remote,2016-09-10,0,Consultant
+20,Robert,Szymański,robert.szymański20@company.com,1,Gdańsk Office,2023-12-06,1,Specialist
+21,Krzysztof,Wiśniewski,krzysztof.wiśniewski21@company.com,1,Remote,2018-06-25,1,Senior Engineer
+22,Urszula,Szymański,urszula.szymański22@company.com,1,Berlin Office,2015-11-11,1,Engineer
+23,Magdalena,Grabowski,magdalena.grabowski23@company.com,1,Remote,2020-09-07,1,Senior Engineer
+24,Szymon,Nowakowski,szymon.nowakowski24@company.com,2,Gdańsk Office,2017-02-10,1,Manager
+25,Beata,Kwiatkowski,beata.kwiatkowski25@company.com,2,Gdańsk Office,2016-02-28,1,Engineer
+26,Krzysztof,Nowakowski,krzysztof.nowakowski26@company.com,2,Warsaw HQ,2016-12-07,1,Consultant
+27,Marek,Mazur,marek.mazur27@company.com,2,London Office,2020-11-11,1,Specialist
+28,Oskar,Jankowski,oskar.jankowski28@company.com,2,Gdańsk Office,2019-08-02,1,Senior Engineer
+29,Robert,Nowakowski,robert.nowakowski29@company.com,2,Warsaw HQ,2018-10-02,1,Lead
+30,Oskar,Zieliński,oskar.zieliński30@company.com,2,Berlin Office,2023-02-12,1,Manager
+31,Sara,Wiśniewski,sara.wiśniewski31@company.com,2,Berlin Office,2021-07-14,1,Specialist
+32,Paulina,Nowakowski,paulina.nowakowski32@company.com,2,Berlin Office,2022-10-31,1,Engineer
+33,Paulina,Krawczyk,paulina.krawczyk33@company.com,2,Berlin Office,2019-03-23,1,Manager
+34,Jakub,Michalski,jakub.michalski34@company.com,2,Berlin Office,2024-04-18,1,Engineer
+35,Kasia,Pawłowski,kasia.pawłowski35@company.com,2,London Office,2019-10-01,1,Specialist
+36,Paulina,Wójcik,paulina.wójcik36@company.com,2,Gdańsk Office,2017-05-27,1,Consultant
+37,Jan,Kowalczyk,jan.kowalczyk37@company.com,2,Kraków Office,2016-07-17,0,Engineer
+38,Krzysztof,Adamczyk,krzysztof.adamczyk38@company.com,2,Berlin Office,2021-01-19,1,Senior Engineer
+39,Jakub,Woźniak,jakub.woźniak39@company.com,2,London Office,2023-08-05,1,Lead
+40,Gosia,Wójcik,gosia.wójcik40@company.com,2,Berlin Office,2017-01-10,1,Manager
+41,Kamil,Kwiatkowski,kamil.kwiatkowski41@company.com,2,Remote,2015-06-28,1,Analyst
+42,Marek,Grabowski,marek.grabowski42@company.com,2,Berlin Office,2018-03-13,1,Analyst
+43,Paweł,Kowalczyk,paweł.kowalczyk43@company.com,2,Remote,2018-06-21,1,Analyst
+44,Urszula,Pawłowski,urszula.pawłowski44@company.com,2,Remote,2021-05-25,1,Director
+45,Maria,Jankowski,maria.jankowski45@company.com,2,London Office,2020-08-21,1,Manager
+46,Jan,Grabowski,jan.grabowski46@company.com,2,Gdańsk Office,2016-07-20,0,Consultant
+47,Urszula,Krawczyk,urszula.krawczyk47@company.com,2,Berlin Office,2016-02-25,1,Engineer
+48,Oskar,Wiśniewski,oskar.wiśniewski48@company.com,2,Kraków Office,2023-07-23,1,Manager
+49,Aleksandra,Wiśniewski,aleksandra.wiśniewski49@company.com,2,Remote,2017-06-28,1,Senior Engineer
+50,Piotr,Nowak,piotr.nowak50@company.com,2,London Office,2019-06-12,1,Lead
+51,Dorota,Kozłowski,dorota.kozłowski51@company.com,2,Warsaw HQ,2017-07-08,1,Engineer
+52,Julia,Nowakowski,julia.nowakowski52@company.com,2,Kraków Office,2018-10-05,1,Director
+53,Łukasz,Michalski,łukasz.michalski53@company.com,2,Kraków Office,2024-04-27,1,Consultant
+54,Magdalena,Kowalski,magdalena.kowalski54@company.com,3,Warsaw HQ,2015-11-21,1,Manager
+55,Natalia,Nowacki,natalia.nowacki55@company.com,3,London Office,2021-10-29,1,Director
+56,Marta,Szymański,marta.szymański56@company.com,3,Warsaw HQ,2016-05-14,1,Consultant
+57,Cezary,Dąbrowski,cezary.dąbrowski57@company.com,3,Remote,2024-05-20,1,Senior Engineer
+58,Robert,Mazur,robert.mazur58@company.com,3,Kraków Office,2021-06-13,1,Director
+59,Aleksandra,Kowalski,aleksandra.kowalski59@company.com,3,Gdańsk Office,2021-11-23,1,Lead
+60,Iga,Pawłowski,iga.pawłowski60@company.com,3,Warsaw HQ,2022-06-30,1,Specialist
+61,Cezary,Mazur,cezary.mazur61@company.com,3,London Office,2021-02-06,1,Senior Engineer
+62,Wojciech,Kaczmarek,wojciech.kaczmarek62@company.com,3,Berlin Office,2015-06-28,1,Specialist
+63,Michał,Nowacki,michał.nowacki63@company.com,3,Gdańsk Office,2015-03-08,1,Specialist
+64,Marta,Nowacki,marta.nowacki64@company.com,3,Berlin Office,2022-05-15,1,Specialist
+65,Filip,Nowak,filip.nowak65@company.com,3,London Office,2018-12-14,1,Manager
+66,Maria,Pawłowski,maria.pawłowski66@company.com,3,Berlin Office,2020-03-18,1,Manager
+67,Filip,Wiśniewski,filip.wiśniewski67@company.com,3,Remote,2023-01-11,0,Analyst
+68,Bartosz,Kamiński,bartosz.kamiński68@company.com,3,Gdańsk Office,2015-06-21,1,Lead
+69,Paweł,Kaczmarek,paweł.kaczmarek69@company.com,3,Warsaw HQ,2017-11-03,1,Analyst
+70,Oskar,Kozłowski,oskar.kozłowski70@company.com,3,Warsaw HQ,2023-10-04,1,Specialist
+71,Nina,Dąbrowski,nina.dąbrowski71@company.com,3,Gdańsk Office,2023-12-19,1,Lead
+72,Alicja,Kwiatkowski,alicja.kwiatkowski72@company.com,3,Gdańsk Office,2019-05-03,1,Consultant
+73,Sebastian,Kaczmarek,sebastian.kaczmarek73@company.com,3,London Office,2019-02-13,1,Engineer
+74,Kamil,Wojciechowski,kamil.wojciechowski74@company.com,3,Remote,2015-11-20,1,Manager
+75,Paweł,Szymański,paweł.szymański75@company.com,3,Warsaw HQ,2018-08-08,1,Director
+76,Paulina,Kwiatkowski,paulina.kwiatkowski76@company.com,3,Berlin Office,2021-10-04,1,Consultant
+77,Tomasz,Kwiatkowski,tomasz.kwiatkowski77@company.com,3,Berlin Office,2015-06-23,1,Specialist
+78,Magdalena,Wojciechowski,magdalena.wojciechowski78@company.com,3,Berlin Office,2018-01-29,1,Senior Engineer
+79,Cezary,Pawłowski,cezary.pawłowski79@company.com,3,Remote,2022-02-24,1,Manager
+80,Anna,Lewandowski,anna.lewandowski80@company.com,3,Berlin Office,2021-10-24,1,Senior Engineer
+81,Filip,Wiśniewski,filip.wiśniewski81@company.com,3,Berlin Office,2017-08-24,1,Lead
+82,Szymon,Nowak,szymon.nowak82@company.com,3,Kraków Office,2021-10-14,1,Specialist
+83,Urszula,Kwiatkowski,urszula.kwiatkowski83@company.com,3,Warsaw HQ,2023-07-23,1,Specialist
+84,Rafał,Nowakowski,rafał.nowakowski84@company.com,4,Kraków Office,2018-02-15,1,Senior Engineer
+85,Alicja,Wójcik,alicja.wójcik85@company.com,4,London Office,2020-08-06,1,Engineer
+86,Michał,Adamczyk,michał.adamczyk86@company.com,4,Berlin Office,2017-12-02,1,Director
+87,Sebastian,Kaczmarek,sebastian.kaczmarek87@company.com,4,Warsaw HQ,2017-03-30,1,Engineer
+88,Marek,Wójcik,marek.wójcik88@company.com,4,Remote,2022-12-31,1,Specialist
+89,Jakub,Kozłowski,jakub.kozłowski89@company.com,4,Warsaw HQ,2022-12-16,1,Director
+90,Paulina,Wójcik,paulina.wójcik90@company.com,4,Berlin Office,2022-12-25,1,Manager
+91,Urszula,Mazur,urszula.mazur91@company.com,4,Warsaw HQ,2017-07-07,1,Manager
+92,Marta,Kaczmarek,marta.kaczmarek92@company.com,4,Gdańsk Office,2015-04-18,1,Specialist
+93,Joanna,Krawczyk,joanna.krawczyk93@company.com,4,London Office,2016-06-15,1,Engineer
+94,Paulina,Jankowski,paulina.jankowski94@company.com,4,Berlin Office,2023-01-15,1,Lead
+95,Maria,Wojciechowski,maria.wojciechowski95@company.com,4,London Office,2024-03-26,0,Specialist
+96,Kasia,Wiśniewski,kasia.wiśniewski96@company.com,4,Remote,2020-01-18,1,Specialist
+97,Filip,Adamczyk,filip.adamczyk97@company.com,4,Berlin Office,2021-03-08,1,Manager
+98,Aleksandra,Mazur,aleksandra.mazur98@company.com,4,Warsaw HQ,2015-08-15,1,Director
+99,Hubert,Wójcik,hubert.wójcik99@company.com,4,Berlin Office,2018-08-14,1,Director
+100,Dorota,Zieliński,dorota.zieliński100@company.com,4,Berlin Office,2017-03-15,1,Director
+101,Filip,Nowakowski,filip.nowakowski101@company.com,4,London Office,2018-05-25,1,Manager
+102,Karolina,Piotrowska,karolina.piotrowska102@company.com,4,Kraków Office,2016-09-23,1,Specialist
+103,Szymon,Nowak,szymon.nowak103@company.com,4,Warsaw HQ,2024-04-03,1,Director
+104,Kasia,Kamiński,kasia.kamiński104@company.com,4,London Office,2023-08-08,1,Senior Engineer
+105,Agnieszka,Nowakowski,agnieszka.nowakowski105@company.com,4,Gdańsk Office,2021-02-12,1,Director
+106,Łukasz,Kowalczyk,łukasz.kowalczyk106@company.com,4,Berlin Office,2024-01-10,1,Consultant
+107,Cezary,Michalski,cezary.michalski107@company.com,4,Kraków Office,2015-09-03,1,Consultant
+108,Joanna,Kamiński,joanna.kamiński108@company.com,4,London Office,2018-10-25,1,Specialist
+109,Kamil,Kozłowski,kamil.kozłowski109@company.com,4,Kraków Office,2019-06-22,1,Engineer
+110,Rafał,Kowalczyk,rafał.kowalczyk110@company.com,4,Warsaw HQ,2020-03-25,1,Analyst
+111,Gosia,Dąbrowski,gosia.dąbrowski111@company.com,4,Gdańsk Office,2015-07-27,1,Lead
+112,Marta,Wójcik,marta.wójcik112@company.com,4,Gdańsk Office,2024-02-15,1,Specialist
+113,Daniel,Wójcik,daniel.wójcik113@company.com,5,London Office,2020-08-02,1,Director
+114,Agnieszka,Kowalski,agnieszka.kowalski114@company.com,5,Remote,2016-01-04,1,Analyst
+115,Katarzyna,Piotrowska,katarzyna.piotrowska115@company.com,5,Warsaw HQ,2018-12-16,0,Consultant
+116,Damian,Nowakowski,damian.nowakowski116@company.com,5,Remote,2022-07-17,1,Senior Engineer
+117,Eryk,Wojciechowski,eryk.wojciechowski117@company.com,5,Gdańsk Office,2016-07-02,1,Lead
+118,Urszula,Nowak,urszula.nowak118@company.com,5,Warsaw HQ,2019-06-29,1,Analyst
+119,Urszula,Krawczyk,urszula.krawczyk119@company.com,5,Warsaw HQ,2018-03-28,1,Consultant
+120,Daniel,Krawczyk,daniel.krawczyk120@company.com,5,London Office,2018-02-19,1,Engineer
+121,Filip,Dąbrowski,filip.dąbrowski121@company.com,5,Gdańsk Office,2019-06-02,1,Specialist
+122,Natalia,Kozłowski,natalia.kozłowski122@company.com,5,Kraków Office,2023-06-20,1,Lead
+123,Krzysztof,Nowak,krzysztof.nowak123@company.com,5,Warsaw HQ,2015-07-05,1,Specialist
+124,Łukasz,Mazur,łukasz.mazur124@company.com,5,Kraków Office,2020-02-15,1,Manager
+125,Rafał,Grabowski,rafał.grabowski125@company.com,5,Kraków Office,2018-07-28,1,Director
+126,Karolina,Woźniak,karolina.woźniak126@company.com,5,London Office,2020-09-08,1,Director
+127,Łukasz,Kowalski,łukasz.kowalski127@company.com,5,Gdańsk Office,2019-02-17,1,Lead
+128,Karolina,Szymański,karolina.szymański128@company.com,5,Berlin Office,2023-12-08,1,Senior Engineer
+129,Damian,Kaczmarek,damian.kaczmarek129@company.com,5,Berlin Office,2017-12-23,1,Analyst
+130,Kamil,Nowak,kamil.nowak130@company.com,5,Remote,2021-07-18,1,Lead
+131,Gosia,Pawłowski,gosia.pawłowski131@company.com,5,Warsaw HQ,2017-09-19,1,Engineer
+132,Jan,Kowalski,jan.kowalski132@company.com,5,Gdańsk Office,2019-12-12,1,Lead
+133,Sebastian,Kamiński,sebastian.kamiński133@company.com,5,London Office,2019-08-08,1,Consultant
+134,Alicja,Nowacki,alicja.nowacki134@company.com,5,Berlin Office,2015-09-13,1,Analyst
+135,Natalia,Woźniak,natalia.woźniak135@company.com,5,Remote,2022-06-05,1,Specialist
+136,Iga,Kwiatkowski,iga.kwiatkowski136@company.com,5,Gdańsk Office,2020-12-23,1,Director
+137,Magdalena,Kaczmarek,magdalena.kaczmarek137@company.com,5,Kraków Office,2017-02-26,1,Director
+138,Leszek,Szymański,leszek.szymański138@company.com,5,Gdańsk Office,2023-08-25,1,Consultant
+139,Łukasz,Kozłowski,łukasz.kozłowski139@company.com,6,Berlin Office,2021-04-14,1,Engineer
+140,Szymon,Pawłowski,szymon.pawłowski140@company.com,6,Remote,2021-02-02,1,Lead
+141,Tomasz,Adamczyk,tomasz.adamczyk141@company.com,6,Kraków Office,2024-01-09,1,Director
+142,Julia,Wiśniewski,julia.wiśniewski142@company.com,6,Remote,2018-11-19,1,Consultant
+143,Katarzyna,Kamiński,katarzyna.kamiński143@company.com,6,London Office,2024-04-14,1,Director
+144,Filip,Dąbrowski,filip.dąbrowski144@company.com,6,Berlin Office,2021-11-26,1,Analyst
+145,Beata,Pawłowski,beata.pawłowski145@company.com,6,Kraków Office,2020-12-15,1,Senior Engineer
+146,Eryk,Wojciechowski,eryk.wojciechowski146@company.com,6,Berlin Office,2018-09-14,1,Manager
+147,Adam,Krawczyk,adam.krawczyk147@company.com,6,Remote,2016-10-08,1,Consultant
+148,Łukasz,Nowakowski,łukasz.nowakowski148@company.com,6,Gdańsk Office,2017-03-27,1,Senior Engineer
+149,Maria,Wiśniewski,maria.wiśniewski149@company.com,6,London Office,2022-04-25,1,Senior Engineer
+150,Iga,Wojciechowski,iga.wojciechowski150@company.com,6,Kraków Office,2024-05-23,1,Senior Engineer
+151,Zofia,Kaczmarek,zofia.kaczmarek151@company.com,6,Berlin Office,2017-02-02,1,Director
+152,Bartosz,Kowalski,bartosz.kowalski152@company.com,6,London Office,2018-05-07,1,Specialist
+153,Oskar,Kwiatkowski,oskar.kwiatkowski153@company.com,6,London Office,2022-03-11,1,Manager
+154,Krzysztof,Kwiatkowski,krzysztof.kwiatkowski154@company.com,6,Kraków Office,2018-01-22,1,Specialist
+155,Hubert,Nowacki,hubert.nowacki155@company.com,6,Berlin Office,2020-02-23,1,Manager
+156,Adam,Nowacki,adam.nowacki156@company.com,6,Gdańsk Office,2018-10-12,1,Analyst
+157,Iga,Grabowski,iga.grabowski157@company.com,6,Remote,2022-03-01,1,Specialist
+158,Dorota,Jankowski,dorota.jankowski158@company.com,6,Warsaw HQ,2022-07-04,1,Manager
+159,Łukasz,Woźniak,łukasz.woźniak159@company.com,6,Warsaw HQ,2017-10-13,1,Analyst
+160,Marek,Adamczyk,marek.adamczyk160@company.com,6,Gdańsk Office,2017-12-29,1,Senior Engineer
+161,Michał,Nowakowski,michał.nowakowski161@company.com,6,Berlin Office,2019-01-12,1,Engineer
+162,Joanna,Szymański,joanna.szymański162@company.com,6,Remote,2016-10-16,1,Director
+163,Sebastian,Dąbrowski,sebastian.dąbrowski163@company.com,6,Gdańsk Office,2022-03-01,1,Analyst
+164,Leszek,Lewandowski,leszek.lewandowski164@company.com,6,Kraków Office,2020-05-12,1,Specialist
+165,Piotr,Michalski,piotr.michalski165@company.com,6,Remote,2021-02-27,1,Analyst
+166,Daniel,Kowalczyk,daniel.kowalczyk166@company.com,6,London Office,2022-08-18,1,Engineer
+167,Marek,Mazur,marek.mazur167@company.com,7,Gdańsk Office,2022-11-22,0,Engineer
+168,Beata,Krawczyk,beata.krawczyk168@company.com,7,Kraków Office,2020-09-01,1,Manager
+169,Hubert,Woźniak,hubert.woźniak169@company.com,7,Remote,2020-11-01,1,Analyst
+170,Julia,Piotrowska,julia.piotrowska170@company.com,7,Warsaw HQ,2020-06-25,1,Consultant
+171,Beata,Kwiatkowski,beata.kwiatkowski171@company.com,7,London Office,2016-06-24,1,Senior Engineer
+172,Natalia,Kwiatkowski,natalia.kwiatkowski172@company.com,7,Gdańsk Office,2022-07-18,1,Lead
+173,Michał,Kowalski,michał.kowalski173@company.com,7,Kraków Office,2023-05-13,1,Senior Engineer
+174,Aleksandra,Kozłowski,aleksandra.kozłowski174@company.com,7,Warsaw HQ,2022-11-08,1,Senior Engineer
+175,Cezary,Kaczmarek,cezary.kaczmarek175@company.com,7,Gdańsk Office,2015-05-10,1,Manager
+176,Maria,Nowakowski,maria.nowakowski176@company.com,7,Berlin Office,2023-03-07,1,Specialist
+177,Wojciech,Kwiatkowski,wojciech.kwiatkowski177@company.com,7,Remote,2019-03-27,1,Manager
+178,Kasia,Kozłowski,kasia.kozłowski178@company.com,7,Kraków Office,2016-04-30,1,Lead
+179,Monika,Lewandowski,monika.lewandowski179@company.com,7,Kraków Office,2023-03-01,1,Senior Engineer
+180,Paulina,Kwiatkowski,paulina.kwiatkowski180@company.com,7,Berlin Office,2022-07-21,1,Lead
+181,Leszek,Kowalczyk,leszek.kowalczyk181@company.com,7,Gdańsk Office,2020-03-01,1,Analyst
+182,Kamil,Adamczyk,kamil.adamczyk182@company.com,7,Warsaw HQ,2016-04-07,1,Lead
+183,Magdalena,Adamczyk,magdalena.adamczyk183@company.com,7,Kraków Office,2015-03-06,1,Engineer
+184,Damian,Nowak,damian.nowak184@company.com,7,London Office,2020-01-03,1,Senior Engineer
+185,Marta,Nowacki,marta.nowacki185@company.com,7,Remote,2015-07-01,1,Analyst
+186,Daniel,Adamczyk,daniel.adamczyk186@company.com,7,Kraków Office,2015-08-20,1,Director
+187,Leszek,Nowacki,leszek.nowacki187@company.com,7,Gdańsk Office,2021-06-17,1,Specialist
+188,Marta,Szymański,marta.szymański188@company.com,7,Berlin Office,2016-08-09,1,Lead
+189,Paulina,Zieliński,paulina.zieliński189@company.com,7,London Office,2015-09-07,1,Manager
+190,Robert,Pawłowski,robert.pawłowski190@company.com,7,London Office,2019-10-16,1,Specialist
+191,Kasia,Pawłowski,kasia.pawłowski191@company.com,7,London Office,2019-04-11,1,Lead
+192,Piotr,Lewandowski,piotr.lewandowski192@company.com,7,Remote,2018-05-13,1,Consultant
+193,Marta,Kowalczyk,marta.kowalczyk193@company.com,7,Berlin Office,2018-05-16,1,Consultant
+194,Beata,Krawczyk,beata.krawczyk194@company.com,7,Remote,2019-08-18,1,Manager
+195,Wojciech,Kowalczyk,wojciech.kowalczyk195@company.com,7,Kraków Office,2017-11-10,1,Engineer
+196,Marek,Kozłowski,marek.kozłowski196@company.com,7,London Office,2016-01-14,1,Analyst
+197,Beata,Zieliński,beata.zieliński197@company.com,7,Berlin Office,2019-03-25,1,Senior Engineer
+198,Jan,Adamczyk,jan.adamczyk198@company.com,8,Berlin Office,2021-08-03,1,Analyst
+199,Łukasz,Kamiński,łukasz.kamiński199@company.com,8,Gdańsk Office,2018-09-25,1,Senior Engineer
+200,Katarzyna,Kamiński,katarzyna.kamiński200@company.com,8,Warsaw HQ,2023-04-26,1,Consultant
+201,Marta,Michalski,marta.michalski201@company.com,8,Berlin Office,2021-10-11,1,Analyst
+202,Natalia,Woźniak,natalia.woźniak202@company.com,8,Gdańsk Office,2023-09-12,1,Specialist
+203,Paulina,Zieliński,paulina.zieliński203@company.com,8,London Office,2019-01-13,1,Consultant
+204,Eryk,Nowacki,eryk.nowacki204@company.com,8,Gdańsk Office,2020-04-07,1,Specialist
+205,Rafał,Wojciechowski,rafał.wojciechowski205@company.com,8,London Office,2015-07-07,1,Manager
+206,Anna,Zieliński,anna.zieliński206@company.com,8,London Office,2021-03-16,1,Lead
+207,Oskar,Lewandowski,oskar.lewandowski207@company.com,8,Gdańsk Office,2017-03-14,1,Analyst
+208,Agnieszka,Krawczyk,agnieszka.krawczyk208@company.com,8,Berlin Office,2022-05-05,1,Consultant
+209,Kamil,Nowakowski,kamil.nowakowski209@company.com,8,Remote,2023-04-18,1,Specialist
+210,Hubert,Lewandowski,hubert.lewandowski210@company.com,8,London Office,2023-01-29,1,Senior Engineer
+211,Monika,Nowak,monika.nowak211@company.com,8,Warsaw HQ,2024-05-29,1,Senior Engineer
+212,Daniel,Kowalski,daniel.kowalski212@company.com,8,Kraków Office,2019-08-17,1,Analyst
+213,Cezary,Michalski,cezary.michalski213@company.com,8,Warsaw HQ,2016-09-10,1,Consultant
+214,Urszula,Nowak,urszula.nowak214@company.com,8,Berlin Office,2021-12-05,1,Consultant
+215,Jakub,Kaczmarek,jakub.kaczmarek215@company.com,8,Warsaw HQ,2015-03-06,1,Lead
+216,Adam,Kowalski,adam.kowalski216@company.com,8,Berlin Office,2020-12-08,1,Director
+217,Anna,Mazur,anna.mazur217@company.com,8,Berlin Office,2024-02-13,1,Manager
+218,Eryk,Dąbrowski,eryk.dąbrowski218@company.com,8,Kraków Office,2020-11-17,1,Director
+219,Tomasz,Zieliński,tomasz.zieliński219@company.com,8,Remote,2023-12-01,0,Lead
+220,Joanna,Piotrowska,joanna.piotrowska220@company.com,8,Berlin Office,2017-09-23,1,Engineer
+221,Kasia,Nowakowski,kasia.nowakowski221@company.com,8,Warsaw HQ,2023-07-09,1,Lead
+222,Natalia,Kaczmarek,natalia.kaczmarek222@company.com,9,Berlin Office,2015-08-18,0,Manager
+223,Dorota,Kaczmarek,dorota.kaczmarek223@company.com,9,Remote,2024-06-24,1,Specialist
+224,Szymon,Dąbrowski,szymon.dąbrowski224@company.com,9,Warsaw HQ,2020-12-03,1,Consultant
+225,Nina,Nowak,nina.nowak225@company.com,9,Berlin Office,2015-11-01,1,Senior Engineer
+226,Iga,Woźniak,iga.woźniak226@company.com,9,Kraków Office,2015-03-06,1,Lead
+227,Cezary,Szymański,cezary.szymański227@company.com,9,London Office,2016-10-27,1,Lead
+228,Ola,Krawczyk,ola.krawczyk228@company.com,9,Remote,2018-09-20,1,Manager
+229,Sebastian,Nowacki,sebastian.nowacki229@company.com,9,London Office,2015-11-18,1,Specialist
+230,Beata,Dąbrowski,beata.dąbrowski230@company.com,9,Kraków Office,2019-11-26,1,Specialist
+231,Damian,Adamczyk,damian.adamczyk231@company.com,9,London Office,2021-11-19,1,Specialist
+232,Anna,Nowakowski,anna.nowakowski232@company.com,9,Remote,2018-01-24,1,Specialist
+233,Natalia,Jankowski,natalia.jankowski233@company.com,9,Kraków Office,2019-11-04,1,Lead
+234,Dorota,Adamczyk,dorota.adamczyk234@company.com,9,Gdańsk Office,2021-12-08,1,Engineer
+235,Dorota,Zieliński,dorota.zieliński235@company.com,9,Remote,2016-09-23,1,Manager
+236,Alicja,Jankowski,alicja.jankowski236@company.com,9,Gdańsk Office,2018-07-21,1,Senior Engineer
+237,Paulina,Kwiatkowski,paulina.kwiatkowski237@company.com,9,Gdańsk Office,2019-01-14,1,Engineer
+238,Iga,Wojciechowski,iga.wojciechowski238@company.com,9,London Office,2020-01-13,1,Lead
+239,Eryk,Kowalski,eryk.kowalski239@company.com,9,Gdańsk Office,2016-01-03,1,Specialist
+240,Wojciech,Kowalski,wojciech.kowalski240@company.com,9,Remote,2018-04-10,1,Engineer
+241,Kamil,Krawczyk,kamil.krawczyk241@company.com,9,London Office,2017-09-21,1,Lead
+242,Hubert,Lewandowski,hubert.lewandowski242@company.com,9,Gdańsk Office,2018-01-06,1,Manager
+243,Cezary,Wójcik,cezary.wójcik243@company.com,9,Gdańsk Office,2019-11-16,1,Consultant
+244,Cezary,Kozłowski,cezary.kozłowski244@company.com,9,Kraków Office,2017-10-27,1,Consultant
+245,Damian,Grabowski,damian.grabowski245@company.com,9,Remote,2017-03-11,1,Director
+246,Adam,Jankowski,adam.jankowski246@company.com,9,London Office,2018-09-22,1,Specialist
+247,Marek,Woźniak,marek.woźniak247@company.com,9,Berlin Office,2019-10-30,1,Manager
+248,Paulina,Woźniak,paulina.woźniak248@company.com,9,Berlin Office,2021-10-06,1,Specialist
+249,Iga,Jankowski,iga.jankowski249@company.com,9,Gdańsk Office,2018-07-31,1,Consultant
+250,Szymon,Kowalczyk,szymon.kowalczyk250@company.com,9,Remote,2018-08-27,1,Lead
+251,Ewa,Piotrowska,ewa.piotrowska251@company.com,10,London Office,2017-03-29,1,Manager
+252,Ola,Adamczyk,ola.adamczyk252@company.com,10,Warsaw HQ,2021-03-03,1,Consultant
+253,Julia,Kamiński,julia.kamiński253@company.com,10,Gdańsk Office,2019-12-01,1,Engineer
+254,Piotr,Pawłowski,piotr.pawłowski254@company.com,10,Kraków Office,2020-08-07,1,Analyst
+255,Michał,Pawłowski,michał.pawłowski255@company.com,10,Berlin Office,2016-09-23,1,Lead
+256,Cezary,Kwiatkowski,cezary.kwiatkowski256@company.com,10,Remote,2021-09-15,1,Lead
+257,Paweł,Nowak,paweł.nowak257@company.com,10,Gdańsk Office,2023-11-13,1,Engineer
+258,Eryk,Adamczyk,eryk.adamczyk258@company.com,10,Berlin Office,2017-10-13,1,Manager
+259,Kasia,Grabowski,kasia.grabowski259@company.com,10,London Office,2015-07-01,1,Lead
+260,Daniel,Woźniak,daniel.woźniak260@company.com,10,Remote,2023-12-06,1,Engineer
+261,Michał,Kowalczyk,michał.kowalczyk261@company.com,10,Berlin Office,2020-09-22,1,Analyst
+262,Marek,Kozłowski,marek.kozłowski262@company.com,10,Remote,2019-05-22,1,Manager
+263,Tomasz,Kowalski,tomasz.kowalski263@company.com,10,Warsaw HQ,2020-05-31,1,Engineer
+264,Ewa,Nowacki,ewa.nowacki264@company.com,10,Gdańsk Office,2016-08-03,1,Consultant
+265,Katarzyna,Mazur,katarzyna.mazur265@company.com,10,Gdańsk Office,2020-06-01,1,Consultant
+266,Kamil,Michalski,kamil.michalski266@company.com,10,Gdańsk Office,2020-01-28,0,Senior Engineer
+267,Julia,Dąbrowski,julia.dąbrowski267@company.com,10,Gdańsk Office,2015-04-03,1,Manager
+268,Alicja,Kowalczyk,alicja.kowalczyk268@company.com,10,Kraków Office,2020-10-14,1,Specialist
+269,Natalia,Wojciechowski,natalia.wojciechowski269@company.com,10,Kraków Office,2020-03-07,1,Manager
+270,Iga,Nowakowski,iga.nowakowski270@company.com,10,Remote,2022-05-16,1,Analyst
+271,Marek,Piotrowska,marek.piotrowska271@company.com,10,Remote,2019-10-26,0,Analyst
+272,Katarzyna,Zieliński,katarzyna.zieliński272@company.com,10,Berlin Office,2023-06-09,1,Engineer
+273,Szymon,Dąbrowski,szymon.dąbrowski273@company.com,10,London Office,2023-12-19,1,Specialist
+274,Jan,Kwiatkowski,jan.kwiatkowski274@company.com,10,Gdańsk Office,2016-04-11,1,Consultant
+275,Monika,Nowakowski,monika.nowakowski275@company.com,10,London Office,2018-07-07,1,Lead
+276,Karolina,Dąbrowski,karolina.dąbrowski276@company.com,10,Gdańsk Office,2018-11-26,1,Manager
+277,Ola,Michalski,ola.michalski277@company.com,10,Gdańsk Office,2023-12-24,1,Engineer
+278,Ola,Lewandowski,ola.lewandowski278@company.com,10,Warsaw HQ,2018-07-06,1,Engineer
+279,Urszula,Michalski,urszula.michalski279@company.com,11,London Office,2016-08-02,1,Manager
+280,Szymon,Jankowski,szymon.jankowski280@company.com,11,Kraków Office,2019-09-29,1,Manager
+281,Natalia,Wójcik,natalia.wójcik281@company.com,11,Gdańsk Office,2020-06-28,1,Specialist
+282,Marek,Grabowski,marek.grabowski282@company.com,11,Gdańsk Office,2015-08-08,1,Consultant
+283,Filip,Kamiński,filip.kamiński283@company.com,11,Remote,2024-02-22,1,Consultant
+284,Piotr,Pawłowski,piotr.pawłowski284@company.com,11,Remote,2020-07-07,1,Consultant
+285,Agnieszka,Wójcik,agnieszka.wójcik285@company.com,11,London Office,2015-12-05,0,Analyst
+286,Oskar,Nowak,oskar.nowak286@company.com,11,Kraków Office,2018-01-30,1,Manager
+287,Maria,Kwiatkowski,maria.kwiatkowski287@company.com,11,Berlin Office,2021-05-05,1,Consultant
+288,Natalia,Mazur,natalia.mazur288@company.com,11,London Office,2016-04-08,1,Specialist
+289,Paweł,Adamczyk,paweł.adamczyk289@company.com,11,Berlin Office,2015-06-20,1,Analyst
+290,Aleksandra,Dąbrowski,aleksandra.dąbrowski290@company.com,11,Berlin Office,2023-04-03,1,Director
+291,Bartosz,Kwiatkowski,bartosz.kwiatkowski291@company.com,11,Gdańsk Office,2017-12-12,1,Engineer
+292,Marek,Dąbrowski,marek.dąbrowski292@company.com,11,Kraków Office,2023-09-12,1,Specialist
+293,Julia,Grabowski,julia.grabowski293@company.com,11,Remote,2022-02-04,1,Manager
+294,Katarzyna,Kamiński,katarzyna.kamiński294@company.com,11,Warsaw HQ,2024-01-13,1,Director
+295,Damian,Krawczyk,damian.krawczyk295@company.com,11,Gdańsk Office,2016-11-20,1,Director
+296,Oskar,Piotrowska,oskar.piotrowska296@company.com,11,London Office,2017-12-31,1,Engineer
+297,Filip,Adamczyk,filip.adamczyk297@company.com,11,Remote,2023-10-24,1,Director
+298,Kasia,Lewandowski,kasia.lewandowski298@company.com,11,Kraków Office,2022-11-13,1,Specialist
+299,Marta,Adamczyk,marta.adamczyk299@company.com,11,Berlin Office,2024-06-17,1,Manager
+300,Szymon,Nowakowski,szymon.nowakowski300@company.com,11,Berlin Office,2018-01-05,1,Consultant
+301,Cezary,Nowakowski,cezary.nowakowski301@company.com,11,Warsaw HQ,2023-11-29,1,Director
+302,Sebastian,Kozłowski,sebastian.kozłowski302@company.com,11,Remote,2020-02-06,1,Senior Engineer
+303,Maria,Nowacki,maria.nowacki303@company.com,11,Berlin Office,2016-01-17,1,Specialist
+304,Paweł,Jankowski,paweł.jankowski304@company.com,12,Remote,2017-06-11,1,Consultant
+305,Nina,Woźniak,nina.woźniak305@company.com,12,Gdańsk Office,2024-04-15,1,Manager
+306,Szymon,Kaczmarek,szymon.kaczmarek306@company.com,12,Gdańsk Office,2023-11-03,1,Senior Engineer
+307,Bartosz,Dąbrowski,bartosz.dąbrowski307@company.com,12,Remote,2022-01-08,0,Manager
+308,Marek,Kwiatkowski,marek.kwiatkowski308@company.com,12,Remote,2015-01-03,1,Manager
+309,Kasia,Szymański,kasia.szymański309@company.com,12,Gdańsk Office,2016-10-13,1,Specialist
+310,Michał,Wiśniewski,michał.wiśniewski310@company.com,12,Berlin Office,2019-03-04,1,Manager
+311,Beata,Jankowski,beata.jankowski311@company.com,12,Gdańsk Office,2022-01-06,1,Analyst
+312,Aleksandra,Nowakowski,aleksandra.nowakowski312@company.com,12,Berlin Office,2016-01-09,1,Analyst
+313,Łukasz,Wiśniewski,łukasz.wiśniewski313@company.com,12,London Office,2016-06-27,1,Consultant
+314,Adam,Kowalski,adam.kowalski314@company.com,12,Gdańsk Office,2022-10-20,1,Lead
+315,Sebastian,Lewandowski,sebastian.lewandowski315@company.com,12,Warsaw HQ,2020-05-10,1,Engineer
+316,Kamil,Dąbrowski,kamil.dąbrowski316@company.com,12,Gdańsk Office,2016-02-27,1,Director
+317,Filip,Jankowski,filip.jankowski317@company.com,12,Kraków Office,2023-09-04,1,Manager
+318,Cezary,Mazur,cezary.mazur318@company.com,12,Warsaw HQ,2021-04-26,1,Manager
+319,Marek,Kozłowski,marek.kozłowski319@company.com,12,Kraków Office,2023-02-07,1,Manager
+320,Piotr,Grabowski,piotr.grabowski320@company.com,12,Remote,2022-09-13,1,Engineer
+321,Eryk,Lewandowski,eryk.lewandowski321@company.com,12,Warsaw HQ,2023-06-10,1,Lead
+322,Tomasz,Wojciechowski,tomasz.wojciechowski322@company.com,12,Kraków Office,2018-07-12,1,Engineer
+323,Marta,Krawczyk,marta.krawczyk323@company.com,12,London Office,2021-09-27,1,Director
+324,Maria,Michalski,maria.michalski324@company.com,12,Berlin Office,2015-04-20,1,Analyst
+325,Monika,Grabowski,monika.grabowski325@company.com,12,Kraków Office,2020-09-18,1,Director
+326,Kasia,Nowak,kasia.nowak326@company.com,12,Kraków Office,2023-10-16,1,Engineer
+327,Marta,Kaczmarek,marta.kaczmarek327@company.com,12,London Office,2022-02-26,0,Senior Engineer
+328,Rafał,Lewandowski,rafał.lewandowski328@company.com,13,London Office,2019-05-04,1,Manager
+329,Daniel,Kaczmarek,daniel.kaczmarek329@company.com,13,Warsaw HQ,2023-08-22,0,Engineer
+330,Adam,Zieliński,adam.zieliński330@company.com,13,Warsaw HQ,2017-06-02,1,Lead
+331,Krzysztof,Szymański,krzysztof.szymański331@company.com,13,Berlin Office,2022-01-18,1,Lead
+332,Aleksandra,Michalski,aleksandra.michalski332@company.com,13,Warsaw HQ,2019-07-06,1,Manager
+333,Nina,Wiśniewski,nina.wiśniewski333@company.com,13,Warsaw HQ,2018-06-23,1,Analyst
+334,Gosia,Krawczyk,gosia.krawczyk334@company.com,13,Remote,2018-08-31,1,Engineer
+335,Paulina,Michalski,paulina.michalski335@company.com,13,Berlin Office,2019-11-27,1,Analyst
+336,Beata,Kowalczyk,beata.kowalczyk336@company.com,13,Remote,2015-12-20,1,Senior Engineer
+337,Paulina,Pawłowski,paulina.pawłowski337@company.com,13,Berlin Office,2023-04-26,1,Engineer
+338,Adam,Michalski,adam.michalski338@company.com,13,Berlin Office,2016-07-16,0,Consultant
+339,Tomasz,Mazur,tomasz.mazur339@company.com,13,Berlin Office,2020-10-19,1,Specialist
+340,Filip,Nowacki,filip.nowacki340@company.com,13,Gdańsk Office,2023-10-05,1,Engineer
+341,Maria,Kowalski,maria.kowalski341@company.com,13,Remote,2018-10-04,1,Engineer
+342,Michał,Michalski,michał.michalski342@company.com,13,Berlin Office,2021-06-19,0,Consultant
+343,Krzysztof,Kozłowski,krzysztof.kozłowski343@company.com,13,Remote,2015-08-16,1,Manager
+344,Urszula,Wójcik,urszula.wójcik344@company.com,13,Warsaw HQ,2017-11-10,1,Engineer
+345,Leszek,Nowacki,leszek.nowacki345@company.com,13,Warsaw HQ,2020-09-15,0,Senior Engineer
+346,Marta,Nowak,marta.nowak346@company.com,13,Gdańsk Office,2020-04-16,1,Manager
+347,Iga,Nowak,iga.nowak347@company.com,13,Berlin Office,2021-03-14,1,Lead
+348,Leszek,Woźniak,leszek.woźniak348@company.com,13,Remote,2017-10-13,1,Specialist
+349,Nina,Wiśniewski,nina.wiśniewski349@company.com,13,Gdańsk Office,2021-05-30,1,Senior Engineer
+350,Iga,Kowalczyk,iga.kowalczyk350@company.com,13,London Office,2024-01-08,1,Lead
+351,Cezary,Kwiatkowski,cezary.kwiatkowski351@company.com,13,Gdańsk Office,2018-03-02,1,Consultant
+352,Adam,Kozłowski,adam.kozłowski352@company.com,13,Gdańsk Office,2017-04-01,1,Director
+353,Alicja,Grabowski,alicja.grabowski353@company.com,13,Remote,2017-09-20,1,Consultant
+354,Maria,Adamczyk,maria.adamczyk354@company.com,13,Berlin Office,2017-03-11,1,Analyst
+355,Gosia,Kowalski,gosia.kowalski355@company.com,13,Warsaw HQ,2019-08-07,1,Specialist
+356,Sara,Kowalski,sara.kowalski356@company.com,14,Berlin Office,2023-07-06,1,Director
+357,Eryk,Kamiński,eryk.kamiński357@company.com,14,Kraków Office,2020-12-10,1,Senior Engineer
+358,Gosia,Michalski,gosia.michalski358@company.com,14,Warsaw HQ,2018-02-20,0,Analyst
+359,Monika,Wojciechowski,monika.wojciechowski359@company.com,14,Gdańsk Office,2022-11-10,1,Engineer
+360,Karolina,Dąbrowski,karolina.dąbrowski360@company.com,14,Kraków Office,2020-09-01,1,Lead
+361,Cezary,Piotrowska,cezary.piotrowska361@company.com,14,Warsaw HQ,2021-05-14,1,Manager
+362,Marta,Szymański,marta.szymański362@company.com,14,Gdańsk Office,2017-12-05,1,Lead
+363,Sebastian,Nowacki,sebastian.nowacki363@company.com,14,Gdańsk Office,2018-08-29,1,Analyst
+364,Cezary,Kamiński,cezary.kamiński364@company.com,14,London Office,2016-07-11,1,Engineer
+365,Hubert,Kwiatkowski,hubert.kwiatkowski365@company.com,14,Gdańsk Office,2020-03-23,1,Specialist
+366,Maria,Kamiński,maria.kamiński366@company.com,14,Gdańsk Office,2020-01-26,1,Engineer
+367,Dorota,Wójcik,dorota.wójcik367@company.com,14,Berlin Office,2024-01-21,1,Senior Engineer
+368,Katarzyna,Woźniak,katarzyna.woźniak368@company.com,14,Warsaw HQ,2016-08-30,1,Specialist
+369,Zofia,Mazur,zofia.mazur369@company.com,14,Berlin Office,2015-07-20,1,Manager
+370,Anna,Jankowski,anna.jankowski370@company.com,14,London Office,2020-01-27,1,Analyst
+371,Eryk,Kwiatkowski,eryk.kwiatkowski371@company.com,14,Kraków Office,2016-02-22,1,Senior Engineer
+372,Maria,Kowalczyk,maria.kowalczyk372@company.com,14,Kraków Office,2016-06-19,1,Specialist
+373,Ola,Nowakowski,ola.nowakowski373@company.com,14,Warsaw HQ,2022-03-25,1,Director
+374,Cezary,Kowalski,cezary.kowalski374@company.com,14,Kraków Office,2015-09-22,1,Consultant
+375,Filip,Wiśniewski,filip.wiśniewski375@company.com,14,Gdańsk Office,2024-04-20,1,Consultant
+376,Beata,Wójcik,beata.wójcik376@company.com,14,Remote,2021-06-08,1,Lead
+377,Agnieszka,Kowalski,agnieszka.kowalski377@company.com,14,Berlin Office,2019-04-17,1,Specialist
+378,Katarzyna,Wójcik,katarzyna.wójcik378@company.com,14,Gdańsk Office,2018-01-31,1,Manager
+379,Magdalena,Grabowski,magdalena.grabowski379@company.com,15,Kraków Office,2021-12-02,1,Consultant
+380,Piotr,Krawczyk,piotr.krawczyk380@company.com,15,Warsaw HQ,2020-05-16,1,Lead
+381,Filip,Wojciechowski,filip.wojciechowski381@company.com,15,Berlin Office,2017-03-27,1,Analyst
+382,Robert,Krawczyk,robert.krawczyk382@company.com,15,Warsaw HQ,2023-11-30,1,Specialist
+383,Łukasz,Krawczyk,łukasz.krawczyk383@company.com,15,Remote,2023-10-06,1,Specialist
+384,Wojciech,Zieliński,wojciech.zieliński384@company.com,15,Warsaw HQ,2017-01-06,1,Analyst
+385,Anna,Adamczyk,anna.adamczyk385@company.com,15,Warsaw HQ,2018-02-24,1,Consultant
+386,Monika,Kozłowski,monika.kozłowski386@company.com,15,London Office,2023-08-07,1,Manager
+387,Eryk,Kowalczyk,eryk.kowalczyk387@company.com,15,Kraków Office,2022-05-14,1,Senior Engineer
+388,Daniel,Kowalczyk,daniel.kowalczyk388@company.com,15,Remote,2021-06-16,1,Manager
+389,Iga,Kowalczyk,iga.kowalczyk389@company.com,15,Gdańsk Office,2021-08-23,1,Specialist
+390,Karolina,Kowalski,karolina.kowalski390@company.com,15,Berlin Office,2022-11-21,1,Manager
+391,Szymon,Kamiński,szymon.kamiński391@company.com,15,Remote,2024-05-20,1,Manager
+392,Agnieszka,Nowak,agnieszka.nowak392@company.com,15,Warsaw HQ,2016-01-05,1,Analyst
+393,Anna,Mazur,anna.mazur393@company.com,15,Warsaw HQ,2020-05-11,1,Analyst
+394,Filip,Woźniak,filip.woźniak394@company.com,15,Kraków Office,2023-01-15,1,Specialist
+395,Beata,Kowalski,beata.kowalski395@company.com,15,London Office,2016-08-28,1,Manager
+396,Maria,Dąbrowski,maria.dąbrowski396@company.com,15,London Office,2024-06-29,1,Engineer
+397,Urszula,Michalski,urszula.michalski397@company.com,15,Remote,2022-06-05,1,Specialist
+398,Paulina,Woźniak,paulina.woźniak398@company.com,15,Kraków Office,2016-07-12,1,Lead
+399,Robert,Kaczmarek,robert.kaczmarek399@company.com,15,Gdańsk Office,2022-04-13,1,Specialist
+400,Leszek,Pawłowski,leszek.pawłowski400@company.com,15,Kraków Office,2021-08-09,1,Director
+401,Filip,Wójcik,filip.wójcik401@company.com,15,Warsaw HQ,2023-03-05,1,Lead
