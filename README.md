@@ -26,7 +26,7 @@ IT organizations typically struggle with four expensive problems:
 
 8-table normalized star schema simulating a real enterprise IT environment.
 
-![ERD Diagram](Entity%20Relationship%20Diagram.png)
+![ERD Diagram](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/MySQL/Entity%20Relationship%20Diagram.png)
 
 ```
 invoices          → fact table (1,000 records, multi-currency)
