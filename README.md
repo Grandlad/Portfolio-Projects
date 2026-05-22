@@ -255,27 +255,27 @@ END$$
 ## Power BI Dashboards
 
 ### Executive Overview
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/PowerBI/Screen_Shots/IT%20Spend%20Intelligence%20-%20Executive%20Overview.png)
 KPI cards · CapEx vs OpEx donut · Spend trend by year · Top 20 vendors · Budget vs Actual by department
 
 ### HAM — Hardware Asset Management
-![Hardware Assets](screenshots/02_ham_hardware_assets.png)
+![Hardware Assets](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/PowerBI/Screen_Shots/HAM%20-%20Hardware%20Assets.png)
 Warranty status table · Zombie asset detection · Assets by condition · Assets by category · Refresh cost KPI
 
 ### SAM — Software License Management
-![Software Licenses](screenshots/03_sam_software_licenses.png)
+![Software Licenses](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/PowerBI/Screen_Shots/SAM%20-%20Software%20Licenses.png)
 Utilization by product · Shelfware table · SAM Renewal Radar · Licenses by category · Wasted cost KPI
 
 ### FinOps — Cloud Cost Intelligence
-![FinOps](screenshots/04_finops_cloud_budget.png)
+![FinOps](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/PowerBI/Screen_Shots/FinOps%20Cloud%20%26%20Budget.png)
 Monthly burn rate · Cloud spend by department · Budget vs Actual table · Untagged cloud costs audit
 
 ### Procurement & Contract Management
-![Procurement](screenshots/05_procurement_contracts.png)
+![Procurement](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/PowerBI/Screen_Shots/Procurement%20%26%20Contracts.png)
 Contract Expiry Radar · Top vendors by spend (preferred vs non-preferred) · Shadow IT invoices · Spend by category
 
 ### Savings Tracker
-![Savings Tracker](screenshots/06_savings_tracker.png)
+![Savings Tracker](https://raw.githubusercontent.com/Grandlad/Portfolio-Projects/main/IT%20Spend%20Intelligence%20%26%20Optimization%20(SaaS%2C%20Cloud%20%26%20Software%20Assets)/PowerBI/Screen_Shots/Savings%20Tracker.png)
 Potential SAM savings · Hardware recovery value · Savings by license · Offboarding recovery table
 
 ---
