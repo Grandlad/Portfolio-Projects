@@ -1,14 +1,17 @@
 # 📊 Portfolio Projects
-**Data Analytics & Business Intelligence**
+**Data Analytics · Business Intelligence · AI Agents**
 
-This repository contains end-to-end analytics projects built on real-world business scenarios. Each project covers the full cycle — from data modelling and SQL analytics to dashboards and automation — using industry-standard tools.
+This repository contains projects built around real business and investment use cases — from financial operations and asset management to AI-powered automation.
 
-Projects focus on:
-- IT Asset & Cost Management (ITAM / FinOps)
-- Business Intelligence & Dashboarding
-- Data cleaning, modelling, and governance
-- Procurement & contract analytics
-- Cloud cost intelligence
+Each project is or will be a practical application of a specific tool or technology:
+- **SQL** — data modelling, analytics, governance
+- **Power BI** — dashboards, KPI reporting, DAX
+- **Python** — data processing, automation, analysis
+- **ServiceNow (SNOW)** — ITSM workflows, CMDB, asset management
+- **Power Automate** — business process automation, approval flows
+- **Excel / Power Query** — financial modelling, data transformation
+- **Jira / Confluence** — project tracking, documentation
+- **AI Agents** — LLM-powered workflows built on real business problems
 
 ---
 
